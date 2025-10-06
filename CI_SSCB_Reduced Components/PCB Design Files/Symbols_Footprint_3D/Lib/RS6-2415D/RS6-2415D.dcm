@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS6-2415D
+D Recom RS6 Through Hole 6W, Vout +/-15V dc Isolated DC-DC Converter, Vin 4.5  9 V dc
+K
+F https://www.recom-power.com/pdf/Econoline/RS6.pdf
+$ENDCMP
+#
+#End Doc Library

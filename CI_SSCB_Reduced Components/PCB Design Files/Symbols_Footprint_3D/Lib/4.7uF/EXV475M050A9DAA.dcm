@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXV475M050A9DAA
+D EXV, Aluminum, Aluminum Electrolytic, 4.7 uF, 20%, 50 VDC, -55/+105C, 105C, -55C, 105C, 3,000 Hrs, 12 % , 4 Ohms, 0.0665, 3 uA, 2, 3, 5mm, 5.4mm, 1000
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,144 @@
+#include <msp430.h>
+
+/**
+ * P6.2 = MAIN SCR, P2.1 = AUX SCR, P1.3 = ADC, P4.1 = USER SWITCH1,
+ * main.c
+ */
+int main(void)
+{
+    int sw1;
+    int sw2;
+    unsigned int ADCValue;
+
+    // Stop watchdog timer
+    WDTCTL = WDTPW | WDTHOLD;
+
+    // Set direction of ports
+    P2DIR |= BIT1;    // Set P2.1 as output
+    P6DIR |= BIT0;    // Set P6.0 as output
+    P6DIR |= BIT1;    // Set P6.1 as output
+    P6DIR |= BIT2;    // Set P6.2 as output
+    P1DIR |= BIT0;    // Set P1.0 as output (LED RED)
+    P6DIR |= BIT6;    // Set P6.6 as output (LED GREEN)
+
+
+    // Configure P4.1 as input with pull-up resistor
+    P4DIR &= ~BIT1;
+    P4REN |= BIT1;
+    P4OUT |= BIT1;
+
+    // Configure P2.3 as input with pull-up resistor
+    P2DIR &= ~BIT3;
+    P2REN |= BIT3;
+    P2OUT |= BIT3;
+
+    // Disable GPIO power-on default high-impedance mode
+    PM5CTL0 &= ~LOCKLPM5; // to allow configured port settings to take effect
+
+    // Turn off all LEDs and GPIO
+    P1OUT &= ~BIT0; // RED LED
+    P6OUT &= ~BIT6; // GREEN LED
+    P2OUT &= ~BIT1; // Aux. Thyristor
+    P6OUT &= ~BIT0;
+    P6OUT &= ~BIT1;
+    P6OUT &= ~BIT2; // Main Thyristor
+
+    // Configure ADC
+    ADCCTL0 &= ~ADCSHT;     // Clear ADCSHT bits
+    ADCCTL0 |= ADCSHT_2;    // Set ADCSHT bits to 16 ADC clock cycles
+    ADCCTL0 |= ADCON;       // Turn on ADC
+
+    ADCCTL1 |= ADCSSEL_2;   // Select SMCLK for ADC
+    ADCCTL1 |= ADCSHP;      // Use sampling timer
+
+    ADCCTL2 &= ~ADCRES0;    // Clear ADCRES bits
+    ADCCTL2 |= ADCRES_2;    // Set ADC resolution to 12 bits
+
+    ADCMCTL0 |= ADCINCH_3;  // Set ADC input channel to A3 (P1.3)
+
+
+    P6OUT |= BIT6;           // Turn on GREEN LED (P6.6)
+
+    while (1)
+    {
+        // Start ADC conversion and wait for completion
+        ADCCTL0 |= ADCENC | ADCSC;
+        while ((ADCIFG0 & 0xFFFF) == 0);
+        ADCValue = ADCMEM0;
+
+        if (ADCValue < 46)
+        {
+            // Wait for switch P4.1 to be pressed
+            while (1)
+            {
+                sw1 = P4IN & BIT1;
+                if (sw1 == 0)
+                {
+                    break;
+                }
+            }
+
+            P6OUT &= ~BIT6;           // Turn OFF GREEN LED (P6.6)
+
+            // Control sequence for main thyristor and LEDs
+            P6OUT |= BIT2;          // Turn on P6.2 (turn on main thyristor)
+            __delay_cycles(1000);   // Delay 1ms
+            P6OUT &= ~BIT2;         // Turn off P6.2
+
+            P1OUT |= BIT0;          // Turn on RED LED (P1.0)
+
+            // Wait for switch P2.3 to be pressed
+            while (1)
+            {
+                sw2 = P2IN & BIT3;
+                if (sw2 == 0)
+                {
+                    break;
+                }
+            }
+
+            P1OUT &= ~BIT0;           // Turn OFF RED LED (P1.0)
+
+            // Control sequence for auxiliary thyristor and LEDs
+            P2OUT |= BIT1;          // Turn on P2.1 (turn on aux. thyristor)
+            __delay_cycles(1000);   // Delay 1ms
+            P2OUT &= ~BIT1;         // Turn off P2.1
+
+            P6OUT |= BIT6;          // Turn on GREEN LED (P6.6)
+
+
+
+
+           /*
+            // Wait for ADC value to exceed 3102 counts (3102*4.8353mA/count = 15A)
+            while (1)
+            {
+                ADCCTL0 |= ADCENC | ADCSC; // Start ADC conversion
+                while ((ADCIFG0 & 0xFFFF) == 0); // Wait for completion
+                ADCValue = ADCMEM0; // Read ADC value
+
+                //if (ADCValue > 1250 ) //10A fault current 7.58 mA per count 100V 10 ohm
+                if (ADCValue > 2500)
+                //if (ADCValue > 1715 ) //13A fault current 7.58 mA per count 100V 6.6 ohm
+                //if (ADCValue > 550 ) //4.5A fault current 7.58 mA per count 100V 20 ohm
+                //if (ADCValue > 1900 ) //14.4A fault current 7.58 mA per count 300V
+                //if (ADCValue > 2110 ) //16A 7.58mA per count 350V
+                //if (ADCValue > 2500 ) //19A 7.58mA per count 400V
+                {
+                    break; // Exit the loop if ADC value exceeds 2400
+                }
+            }
+
+            
+            // Control sequence for LEDs
+            P1OUT &= ~BIT0;          // Turn off RED LED (P1.0)
+            P2OUT |= BIT1;           // Turn on P2.1 (turn o auxillary thyristor with capacitor)
+            __delay_cycles(1000);    // Delay
+            P2OUT &= ~BIT1;          // Turn off P2.1 
+            P6OUT |= BIT6;           // Turn on GREEN LED (P6.6)
+            */
+        }
+    }
+
+    return 0;
+}

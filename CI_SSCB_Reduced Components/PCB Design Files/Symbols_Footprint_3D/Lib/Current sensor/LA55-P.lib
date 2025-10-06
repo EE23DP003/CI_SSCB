@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LA55-P
+#/13883609/823895/2.50/3/0/Integrated Circuit
+DEF LA55-P IC 0 30 Y Y 1 F N
+F0 "IC" 650 300 50 H V L CNN
+F1 "LA55-P" 650 200 50 H V L CNN
+F2 "LA55P" 650 100 50 H I L CNN
+F3 "https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf" 650 0 50 H I L CNN
+F4 "TRANSDUCER CURRENT 50A HALL EFFECT,CLOSED LOOP" 650 -100 50 H I L CNN "Description"
+F5 "27.8" 650 -200 50 H I L CNN "Height"
+F6 "LEM" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LA55-P" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X M 1 0 0 200 R 50 50 0 0 P
+X - 2 0 -100 200 R 50 50 0 0 P
+X + 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,1999 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MOV-20D431K:MOV-20D431K RV?
+U 1 1 6534C72C
+P 4050 1400
+AR Path="/6534C72C" Ref="RV?"  Part="1" 
+AR Path="/65333553/6534C72C" Ref="RV2"  Part="1" 
+F 0 "RV2" H 4400 1665 50  0000 C CNN
+F 1 "MOV-20D431K" H 4400 1574 50  0000 C CNN
+F 2 "MOV-20D431K:MOV20D431K" H 4600 1450 50  0001 L CNN
+F 3 "https://www.bourns.com/data/global/pdfs/MOV20D.pdf" H 4600 1350 50  0001 L CNN
+F 4 "Bourns MOV-20D Series Metal Oxide Varistor 930pF 100A 710V" H 4600 1250 50  0001 L CNN "Description"
+F 5 "26" H 4600 1150 50  0001 L CNN "Height"
+F 6 "Bourns" H 4600 1050 50  0001 L CNN "Manufacturer_Name"
+F 7 "MOV-20D431K" H 4600 950 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-MOV-20D431K" H 4600 850 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Bourns/MOV-20D431K?qs=CQ3B1E%252BbPs2R73OUL4kc5g%3D%3D" H 4600 750 50  0001 L CNN "Mouser Price/Stock"
+F 10 "MOV-20D431K" H 4600 650 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/mov-20d431k/bourns?region=nac" H 4600 550 50  0001 L CNN "Arrow Price/Stock"
+	1    4050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L MOV-20D431K:MOV-20D431K RV?
+U 1 1 6534C73A
+P 3850 2350
+AR Path="/6534C73A" Ref="RV?"  Part="1" 
+AR Path="/65333553/6534C73A" Ref="RV1"  Part="1" 
+F 0 "RV1" H 4200 2615 50  0000 C CNN
+F 1 "MOV-20D431K" H 4200 2524 50  0000 C CNN
+F 2 "MOV-20D431K:MOV20D431K" H 4400 2400 50  0001 L CNN
+F 3 "https://www.bourns.com/data/global/pdfs/MOV20D.pdf" H 4400 2300 50  0001 L CNN
+F 4 "Bourns MOV-20D Series Metal Oxide Varistor 930pF 100A 710V" H 4400 2200 50  0001 L CNN "Description"
+F 5 "26" H 4400 2100 50  0001 L CNN "Height"
+F 6 "Bourns" H 4400 2000 50  0001 L CNN "Manufacturer_Name"
+F 7 "MOV-20D431K" H 4400 1900 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-MOV-20D431K" H 4400 1800 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Bourns/MOV-20D431K?qs=CQ3B1E%252BbPs2R73OUL4kc5g%3D%3D" H 4400 1700 50  0001 L CNN "Mouser Price/Stock"
+F 10 "MOV-20D431K" H 4400 1600 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/mov-20d431k/bourns?region=nac" H 4400 1500 50  0001 L CNN "Arrow Price/Stock"
+	1    3850 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L B43547A9107M060:B43547A9107M060 C?
+U 1 1 6534C74D
+P 4650 5200
+AR Path="/6534C74D" Ref="C?"  Part="1" 
+AR Path="/65333553/6534C74D" Ref="C3"  Part="1" 
+F 0 "C3" V 4554 5330 50  0000 L CNN
+F 1 "B43547A9107M060" V 4645 5330 50  0000 L CNN
+F 2 "B43547A9107M060:CAPPRD1000W190D2550H2700" H 4650 5200 50  0001 L BNN
+F 3 "" H 4650 5200 50  0001 L BNN
+F 4 "TDK" H 4650 5200 50  0001 L BNN "MF"
+F 5 "27.0 mm" H 4650 5200 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F 6 "None" H 4650 5200 50  0001 L BNN "Package"
+F 7 "None" H 4650 5200 50  0001 L BNN "Price"
+F 8 "https://www.snapeda.com/parts/B43547A9107M060/TDK/view-part/?ref=eda" H 4650 5200 50  0001 L BNN "Check_prices"
+F 9 "IPC-7351B" H 4650 5200 50  0001 L BNN "STANDARD"
+F 10 "2018-10" H 4650 5200 50  0001 L BNN "PARTREV"
+F 11 "https://www.snapeda.com/parts/B43547A9107M060/TDK/view-part/?ref=snap" H 4650 5200 50  0001 L BNN "SnapEDA_Link"
+F 12 "B43547A9107M060" H 4650 5200 50  0001 L BNN "MP"
+F 13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12405429&manufacturer=TDK&part_name=B43547A9107M060&search_term=100 µf 400 v aluminum electrolytic capacitors radial" H 4650 5200 50  0001 L BNN "Purchase-URL"
+F 14 "\\n100 µF 400 V Aluminum Electrolytic Capacitors Radial, Can - Snap-In 520mOhm @ 100Hz 8000 Hrs @ 105°C\\n" H 4650 5200 50  0001 L BNN "Description"
+F 15 "In Stock" H 4650 5200 50  0001 L BNN "Availability"
+F 16 "TDK" H 4650 5200 50  0001 L BNN "MANUFACTURER"
+	1    4650 5200
+	0    1    1    0   
+$EndComp
+$Comp
+L ECW-FG2J105K:ECW-FG2J105K C?
+U 1 1 6534C769
+P 2750 3750
+AR Path="/6534C769" Ref="C?"  Part="1" 
+AR Path="/65333553/6534C769" Ref="C1"  Part="1" 
+F 0 "C1" V 2954 3878 50  0000 L CNN
+F 1 "ECW-FG2J105K" V 3045 3878 50  0000 L CNN
+F 2 "ECW-FG2J105K:ECWFG2J105K" H 3100 3800 50  0001 L CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/RDL0000/RDL0000C245.pdf" H 3100 3700 50  0001 L CNN
+F 4 "1F Film Capacitor 141V 630V Polypropylene (PP), Metallized Radial" H 3100 3600 50  0001 L CNN "Description"
+F 5 "18.5" H 3100 3500 50  0001 L CNN "Height"
+F 6 "Panasonic" H 3100 3400 50  0001 L CNN "Manufacturer_Name"
+F 7 "ECW-FG2J105K" H 3100 3300 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "" H 3100 3200 50  0001 L CNN "Mouser Part Number"
+F 9 "" H 3100 3100 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 3100 3000 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 3100 2900 50  0001 L CNN "Arrow Price/Stock"
+	1    2750 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L ECW-FG2J105K:ECW-FG2J105K C?
+U 1 1 6534C777
+P 3100 2000
+AR Path="/6534C777" Ref="C?"  Part="1" 
+AR Path="/65333553/6534C777" Ref="C2"  Part="1" 
+F 0 "C2" H 3350 2265 50  0000 C CNN
+F 1 "ECW-FG2J105K" H 3350 2174 50  0000 C CNN
+F 2 "ECW-FG2J105K:ECWFG2J105K" H 3450 2050 50  0001 L CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/RDL0000/RDL0000C245.pdf" H 3450 1950 50  0001 L CNN
+F 4 "1F Film Capacitor 141V 630V Polypropylene (PP), Metallized Radial" H 3450 1850 50  0001 L CNN "Description"
+F 5 "18.5" H 3450 1750 50  0001 L CNN "Height"
+F 6 "Panasonic" H 3450 1650 50  0001 L CNN "Manufacturer_Name"
+F 7 "ECW-FG2J105K" H 3450 1550 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "" H 3450 1450 50  0001 L CNN "Mouser Part Number"
+F 9 "" H 3450 1350 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 3450 1250 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 3450 1150 50  0001 L CNN "Arrow Price/Stock"
+	1    3100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SQP500JB-100R:SQP500JB-100R R?
+U 1 1 6534C785
+P 3700 3900
+AR Path="/6534C785" Ref="R?"  Part="1" 
+AR Path="/65333553/6534C785" Ref="R1"  Part="1" 
+F 0 "R1" H 4050 4125 50  0000 C CNN
+F 1 "SQP500JB-100R" H 4100 3650 50  0000 C CNN
+F 2 "5W:RESAD6000W85L2200D950" H 4250 3950 50  0001 L CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_SQP_NSP_2013.pdf" H 4250 3850 50  0001 L CNN
+F 4 "Yageo 100 Through Hole Fixed Resistor 5W 5% SQP500JB-100R" H 4250 3750 50  0001 L CNN "Description"
+F 5 "" H 4250 3650 50  0001 L CNN "Height"
+F 6 "KEMET" H 4250 3550 50  0001 L CNN "Manufacturer_Name"
+F 7 "SQP500JB-100R" H 4250 3450 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "603-SQP500JB-100R" H 4250 3350 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=603-SQP500JB-100R" H 4250 3250 50  0001 L CNN "Mouser Price/Stock"
+F 10 "SQP500JB-100R" H 4250 3150 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/sqp500jb-100r/yageo" H 4250 3050 50  0001 L CNN "Arrow Price/Stock"
+	1    3700 3900
+	0    1    1    0   
+$EndComp
+$Comp
+L SQP500JB-100R:SQP500JB-100R R?
+U 1 1 6534C793
+P 4500 1800
+AR Path="/6534C793" Ref="R?"  Part="1" 
+AR Path="/65333553/6534C793" Ref="R2"  Part="1" 
+F 0 "R2" H 4850 2025 50  0000 C CNN
+F 1 "SQP500JB-100R" H 4850 1934 50  0000 C CNN
+F 2 "5W:RESAD6000W85L2200D950" H 5050 1850 50  0001 L CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_SQP_NSP_2013.pdf" H 5050 1750 50  0001 L CNN
+F 4 "Yageo 100 Through Hole Fixed Resistor 5W 5% SQP500JB-100R" H 5050 1650 50  0001 L CNN "Description"
+F 5 "" H 5050 1550 50  0001 L CNN "Height"
+F 6 "KEMET" H 5050 1450 50  0001 L CNN "Manufacturer_Name"
+F 7 "SQP500JB-100R" H 5050 1350 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "603-SQP500JB-100R" H 5050 1250 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=603-SQP500JB-100R" H 5050 1150 50  0001 L CNN "Mouser Price/Stock"
+F 10 "SQP500JB-100R" H 5050 1050 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/sqp500jb-100r/yageo" H 5050 950 50  0001 L CNN "Arrow Price/Stock"
+	1    4500 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LA55-P:LA55-P IC?
+U 1 1 6534C7C7
+P 10150 1500
+AR Path="/6534C7C7" Ref="IC?"  Part="1" 
+AR Path="/65333553/6534C7C7" Ref="IC1"  Part="1" 
+F 0 "IC1" H 10778 1446 50  0000 L CNN
+F 1 "LA55-P" H 10778 1355 50  0000 L CNN
+F 2 "LA55-P:LA55P" H 10800 1600 50  0001 L CNN
+F 3 "https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf" H 10800 1500 50  0001 L CNN
+F 4 "TRANSDUCER CURRENT 50A HALL EFFECT,CLOSED LOOP" H 10800 1400 50  0001 L CNN "Description"
+F 5 "27.8" H 10800 1300 50  0001 L CNN "Height"
+F 6 "LEM" H 10800 1200 50  0001 L CNN "Manufacturer_Name"
+F 7 "LA55-P" H 10800 1100 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "" H 10800 1000 50  0001 L CNN "Mouser Part Number"
+F 9 "" H 10800 900 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 10800 800 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 10800 700 50  0001 L CNN "Arrow Price/Stock"
+	1    10150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 3296X-1-501RLF:3296X-1-501RLF VR?
+U 1 1 6534C7D7
+P 9950 2000
+AR Path="/6534C7D7" Ref="VR?"  Part="1" 
+AR Path="/65333553/6534C7D7" Ref="VR1"  Part="1" 
+F 0 "VR1" H 10778 1946 50  0000 L CNN
+F 1 "3296X-1-501RLF" H 10778 1855 50  0000 L CNN
+F 2 "3296X-1-501RLF:3296X1223LF" H 10800 2100 50  0001 L CNN
+F 3 "https://www.bourns.com/pdfs/3296.pdf" H 10800 2000 50  0001 L CNN
+F 4 "Trimmer Resistors - Through Hole 1/2W 500ohm 10% Square Trimpot" H 10800 1900 50  0001 L CNN "Description"
+F 5 "10" H 10800 1800 50  0001 L CNN "Height"
+F 6 "Bourns" H 10800 1700 50  0001 L CNN "Manufacturer_Name"
+F 7 "3296X-1-501RLF" H 10800 1600 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "652-3296X-1-501RLF" H 10800 1500 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Bourns/3296X-1-501RLF?qs=pxDZlBjcsCiC1uib8I6u%2FA%3D%3D" H 10800 1400 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 10800 1300 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 10800 1200 50  0001 L CNN "Arrow Price/Stock"
+F 12 "" H 10800 1100 50  0001 L CNN "Mouser Testing Part Number"
+F 13 "" H 10800 1000 50  0001 L CNN "Mouser Testing Price/Stock"
+	1    9950 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 2850 3800 2650
+$Comp
+L power:GND #PWR?
+U 1 1 6534C803
+P 4650 5950
+AR Path="/6534C803" Ref="#PWR?"  Part="1" 
+AR Path="/65333553/6534C803" Ref="#PWR0101"  Part="1" 
+F 0 "#PWR0101" H 4650 5700 50  0001 C CNN
+F 1 "GND" H 4655 5777 50  0000 C CNN
+F 2 "" H 4650 5950 50  0001 C CNN
+F 3 "" H 4650 5950 50  0001 C CNN
+	1    4650 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 2350 3100 2350
+Wire Wire Line
+	4000 2000 4000 1800
+Wire Wire Line
+	4000 1800 4500 1800
+Wire Wire Line
+	3600 2000 4000 2000
+Wire Wire Line
+	3100 2000 3100 2350
+Connection ~ 3100 2350
+Wire Wire Line
+	5200 1800 5700 1800
+Wire Wire Line
+	3700 4600 3700 4750
+Wire Wire Line
+	4050 1400 2050 1400
+Wire Wire Line
+	2050 1400 2050 2950
+Connection ~ 2050 2950
+Wire Wire Line
+	4750 1400 5700 1400
+Wire Wire Line
+	5700 1400 5700 1800
+Connection ~ 4650 5950
+Wire Wire Line
+	3800 2650 3950 2650
+Wire Wire Line
+	4650 4750 4650 5000
+Wire Wire Line
+	6700 2650 6700 2950
+Wire Wire Line
+	6700 2950 8550 2950
+Wire Wire Line
+	8650 2950 8650 3150
+Wire Wire Line
+	4650 4750 5650 4750
+Wire Wire Line
+	5650 4750 5650 4550
+Connection ~ 4650 4750
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 6534C89E
+P 4650 2650
+AR Path="/6534C89E" Ref="TP?"  Part="1" 
+AR Path="/65333553/6534C89E" Ref="Sense1"  Part="1" 
+F 0 "Sense1" V 5150 2600 50  0000 L CNN
+F 1 "105-2210-201" V 4987 2778 50  0000 L CNN
+F 2 "105-2210-201:1052210201" H 5300 2750 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 5300 2650 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 5300 2550 50  0001 L CNN "Description"
+F 5 "7.92" H 5300 2450 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 5300 2350 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 5300 2250 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 5300 2150 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 5300 2050 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4650 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 6534C8AA
+P 5100 2650
+AR Path="/6534C8AA" Ref="TP?"  Part="1" 
+AR Path="/65333553/6534C8AA" Ref="Sense2"  Part="1" 
+F 0 "Sense2" V 5600 2600 50  0000 L CNN
+F 1 "105-2210-201" V 5437 2778 50  0000 L CNN
+F 2 "105-2210-201:1052210201" H 5750 2750 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 5750 2650 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 5750 2550 50  0001 L CNN "Description"
+F 5 "7.92" H 5750 2450 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 5750 2350 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 5750 2250 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 5750 2150 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 5750 2050 50  0001 L CNN "Manufacturer_Part_Number"
+	1    5100 2650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5100 2650 5500 2650
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 6534C8B7
+P 4650 5300
+AR Path="/6534C8B7" Ref="TP?"  Part="1" 
+AR Path="/65333553/6534C8B7" Ref="TP4"  Part="1" 
+F 0 "TP4" H 4942 5565 50  0000 C CNN
+F 1 "105-2210-201" H 4942 5474 50  0000 C CNN
+F 2 "105-2210-201:1052210201" H 5300 5400 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 5300 5300 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 5300 5200 50  0001 L CNN "Description"
+F 5 "7.92" H 5300 5100 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 5300 5000 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 5300 4900 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 5300 4800 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 5300 4700 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4650 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 6534C8C3
+P 4650 5700
+AR Path="/6534C8C3" Ref="TP?"  Part="1" 
+AR Path="/65333553/6534C8C3" Ref="TP5"  Part="1" 
+F 0 "TP5" H 4942 5965 50  0000 C CNN
+F 1 "105-2210-201" H 4942 5874 50  0000 C CNN
+F 2 "105-2210-201:1052210201" H 5300 5800 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 5300 5700 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 5300 5600 50  0001 L CNN "Description"
+F 5 "7.92" H 5300 5500 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 5300 5400 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 5300 5300 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 5300 5200 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 5300 5100 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4650 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 5700 4650 5950
+Wire Wire Line
+	2750 4900 2850 4900
+Wire Wire Line
+	3750 4900 3750 4750
+Wire Wire Line
+	3700 4750 3750 4750
+Connection ~ 3750 4750
+Wire Wire Line
+	3300 4250 3300 3900
+Wire Wire Line
+	3300 3900 3700 3900
+Wire Wire Line
+	2600 3250 2600 2950
+Wire Wire Line
+	2050 2950 2600 2950
+Connection ~ 2600 2950
+Wire Wire Line
+	2600 2950 2750 2950
+Wire Wire Line
+	2750 3700 2750 3750
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 6534C8E8
+P 800 1200
+AR Path="/6534C8E8" Ref="H?"  Part="1" 
+AR Path="/65333553/6534C8E8" Ref="H1"  Part="1" 
+F 0 "H1" H 900 1246 50  0000 L CNN
+F 1 "MountingHole" H 900 1155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 1200 50  0001 C CNN
+F 3 "~" H 800 1200 50  0001 C CNN
+	1    800  1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 6534C8EE
+P 800 1400
+AR Path="/6534C8EE" Ref="H?"  Part="1" 
+AR Path="/65333553/6534C8EE" Ref="H2"  Part="1" 
+F 0 "H2" H 900 1446 50  0000 L CNN
+F 1 "MountingHole" H 900 1355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 1400 50  0001 C CNN
+F 3 "~" H 800 1400 50  0001 C CNN
+	1    800  1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 6534C8FA
+P 800 1800
+AR Path="/6534C8FA" Ref="H?"  Part="1" 
+AR Path="/65333553/6534C8FA" Ref="H4"  Part="1" 
+F 0 "H4" H 900 1846 50  0000 L CNN
+F 1 "MountingHole" H 900 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 1800 50  0001 C CNN
+F 3 "~" H 800 1800 50  0001 C CNN
+	1    800  1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3100 2350 3100 2950
+Connection ~ 3100 2950
+Wire Wire Line
+	6700 3050 6700 2950
+Connection ~ 6700 2950
+$Comp
+L pspice:INDUCTOR L?
+U 1 1 6534C930
+P 4700 3750
+AR Path="/6534C930" Ref="L?"  Part="1" 
+AR Path="/65333553/6534C930" Ref="L1"  Part="1" 
+F 0 "L1" H 4700 3965 50  0000 C CNN
+F 1 "INDUCTOR" H 4700 3874 50  0000 C CNN
+F 2 "Inductor:EE422120_bobbin_diff_modified" H 4700 3750 50  0001 C CNN
+F 3 "~" H 4700 3750 50  0001 C CNN
+	1    4700 3750
+	1    0    0    -1  
+$EndComp
+Text GLabel 3800 3150 3    50   Input ~ 0
+G1
+Wire Wire Line
+	3800 3150 3800 3050
+Text GLabel 3950 2600 1    50   Input ~ 0
+gnd1
+Wire Wire Line
+	3950 2600 3950 2650
+Text GLabel 3000 4700 2    50   Input ~ 0
+G2
+Wire Wire Line
+	3000 4700 2750 4700
+Text GLabel 2850 4950 3    50   Input ~ 0
+gnd3
+Wire Wire Line
+	2850 4950 2850 4900
+Connection ~ 2850 4900
+Wire Wire Line
+	2850 4900 3300 4900
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 652E4FC3
+P 5500 2650
+AR Path="/652E4FC3" Ref="TP?"  Part="1" 
+AR Path="/65333553/652E4FC3" Ref="Probe1"  Part="1" 
+F 0 "Probe1" V 6050 2600 50  0000 L CNN
+F 1 "105-2210-201" V 5837 2778 50  0000 L CNN
+F 2 "105-2210-201:1052210201" H 6150 2750 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 6150 2650 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 6150 2550 50  0001 L CNN "Description"
+F 5 "7.92" H 6150 2450 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 6150 2350 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 6150 2250 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 6150 2150 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 6150 2050 50  0001 L CNN "Manufacturer_Part_Number"
+	1    5500 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L 105-2210-201:105-2210-201 TP?
+U 1 1 652E5DC7
+P 5950 2650
+AR Path="/652E5DC7" Ref="TP?"  Part="1" 
+AR Path="/65333553/652E5DC7" Ref="Probe2"  Part="1" 
+F 0 "Probe2" V 6500 2550 50  0000 L CNN
+F 1 "105-2210-201" V 6287 2778 50  0000 L CNN
+F 2 "105-2210-201:1052210201" H 6600 2750 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 6600 2650 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 6600 2550 50  0001 L CNN "Description"
+F 5 "7.92" H 6600 2450 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 6600 2350 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 6600 2250 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 6600 2150 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 6600 2050 50  0001 L CNN "Manufacturer_Part_Number"
+	1    5950 2650
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5950 2650 6100 2650
+Wire Wire Line
+	6100 2350 6100 2650
+Wire Wire Line
+	4550 2350 6050 2350
+Connection ~ 6100 2650
+Wire Wire Line
+	6100 2650 6700 2650
+Wire Wire Line
+	5700 1800 6050 1800
+Wire Wire Line
+	6050 1800 6050 2000
+Connection ~ 5700 1800
+Connection ~ 6050 2350
+Wire Wire Line
+	6050 2350 6100 2350
+$Comp
+L pspice:DIODE D5
+U 1 1 65301B6C
+P 3300 4550
+F 0 "D5" V 3254 4678 50  0000 L CNN
+F 1 "DIODE" V 3345 4678 50  0000 L CNN
+F 2 "Diode_THT:D_P600_R-6_P12.70mm_Horizontal" H 3300 4550 50  0001 C CNN
+F 3 "~" H 3300 4550 50  0001 C CNN
+	1    3300 4550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3300 4350 3300 4250
+Connection ~ 3300 4250
+Wire Wire Line
+	3300 4750 3300 4900
+Connection ~ 3300 4900
+Wire Wire Line
+	3300 4900 3750 4900
+Wire Wire Line
+	2750 4250 3300 4250
+Wire Wire Line
+	2750 3700 2900 3700
+Wire Wire Line
+	2900 3700 2900 4800
+Wire Wire Line
+	2750 4800 2900 4800
+$Comp
+L pspice:DIODE D6
+U 1 1 65321667
+P 4800 2000
+F 0 "D6" H 4800 2265 50  0000 C CNN
+F 1 "DIODE" H 4800 2174 50  0000 C CNN
+F 2 "Diode_THT:D_P600_R-6_P12.70mm_Horizontal" H 4800 2000 50  0001 C CNN
+F 3 "~" H 4800 2000 50  0001 C CNN
+	1    4800 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 2000 6050 2000
+Connection ~ 6050 2000
+Wire Wire Line
+	6050 2000 6050 2350
+Wire Wire Line
+	4600 2000 4000 2000
+Connection ~ 4000 2000
+$Comp
+L RS6-2415D:RS6-2415D PS5
+U 1 1 653F1A06
+P 9000 1400
+F 0 "PS5" V 9438 672 50  0000 R CNN
+F 1 "RS6-2415D" V 9347 672 50  0000 R CNN
+F 2 "RS6-2415D:RS60505S" H 9850 1500 50  0001 L CNN
+F 3 "https://www.recom-power.com/pdf/Econoline/RS6.pdf" H 9850 1400 50  0001 L CNN
+F 4 "Recom RS6 Through Hole 6W, Vout +/-15V dc Isolated DC-DC Converter, Vin 4.5  9 V dc" H 9850 1300 50  0001 L CNN "Description"
+F 5 "11.6" H 9850 1200 50  0001 L CNN "Height"
+F 6 "RECOM Power" H 9850 1100 50  0001 L CNN "Manufacturer_Name"
+F 7 "RS6-2415D" H 9850 1000 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "919-RS6-2415D" H 9850 900 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RS6-2415D?qs=FLBwGrBR9%252B2lkkKHhWDM6A%3D%3D" H 9850 800 50  0001 L CNN "Mouser Price/Stock"
+F 10 "RS6-2415D" H 9850 700 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/rs6-2415d/recom-power" H 9850 600 50  0001 L CNN "Arrow Price/Stock"
+	1    9000 1400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9400 1400 9400 1700
+Wire Wire Line
+	9400 1700 10150 1700
+Wire Wire Line
+	9600 1600 10150 1600
+Wire Wire Line
+	9600 1400 9600 1600
+$Comp
+L 796690-2:796690-2 J7
+U 1 1 6540266D
+P 8500 1400
+F 0 "J7" V 8838 1172 50  0000 R CNN
+F 1 "796690-2" V 8800 1850 50  0000 R CNN
+F 2 "796690-2:SHDR2W101P0X500_1X2_1000X1250X1500P" H 9150 1500 50  0001 L CNN
+F 3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=796690&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=796690-2" H 9150 1400 50  0001 L CNN
+F 4 "Terminal Blocks 2 POS" H 9150 1300 50  0001 L CNN "Description"
+F 5 "15" H 9150 1200 50  0001 L CNN "Height"
+F 6 "TE Connectivity" H 9150 1100 50  0001 L CNN "Manufacturer_Name"
+F 7 "796690-2" H 9150 1000 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "571-796690-2" H 9150 900 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/796690-2?qs=pWkNwGaCbnSCL%252BUWKaEztA%3D%3D" H 9150 800 50  0001 L CNN "Mouser Price/Stock"
+F 10 "796690-2" H 9150 700 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/796690-2/te-connectivity?region=nac" H 9150 600 50  0001 L CNN "Arrow Price/Stock"
+	1    8500 1400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8600 1400 8600 1550
+Wire Wire Line
+	8600 1550 9000 1550
+Wire Wire Line
+	9000 1550 9000 1400
+Wire Wire Line
+	8500 1400 8500 1650
+Wire Wire Line
+	8500 1650 9150 1650
+Wire Wire Line
+	9150 1650 9150 1400
+Wire Wire Line
+	9150 1400 9100 1400
+Wire Wire Line
+	9950 2100 9950 2000
+Wire Wire Line
+	10150 1500 9750 1500
+Wire Wire Line
+	9750 1500 9750 2200
+Wire Wire Line
+	9750 2200 9950 2200
+Wire Wire Line
+	9500 1400 9500 2000
+Wire Wire Line
+	9500 2000 9950 2000
+Connection ~ 9950 2000
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 654815D9
+P 800 2050
+AR Path="/654815D9" Ref="H?"  Part="1" 
+AR Path="/65333553/654815D9" Ref="H11"  Part="1" 
+F 0 "H11" H 900 2096 50  0000 L CNN
+F 1 "MountingHole" H 900 2005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 2050 50  0001 C CNN
+F 3 "~" H 800 2050 50  0001 C CNN
+	1    800  2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65481792
+P 800 2350
+AR Path="/65481792" Ref="H?"  Part="1" 
+AR Path="/65333553/65481792" Ref="H12"  Part="1" 
+F 0 "H12" H 900 2396 50  0000 L CNN
+F 1 "MountingHole" H 900 2305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 2350 50  0001 C CNN
+F 3 "~" H 800 2350 50  0001 C CNN
+	1    800  2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 654C9811
+P 800 2850
+AR Path="/654C9811" Ref="H?"  Part="1" 
+AR Path="/65333553/654C9811" Ref="H14"  Part="1" 
+F 0 "H14" H 900 2896 50  0000 L CNN
+F 1 "MountingHole" H 900 2805 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 2850 50  0001 C CNN
+F 3 "~" H 800 2850 50  0001 C CNN
+	1    800  2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7461383:7461383 IC6
+U 1 1 653AC772
+P 600 3500
+F 0 "IC6" H 1050 3765 50  0000 C CNN
+F 1 "7461383" H 1050 3674 50  0000 C CNN
+F 2 "7461383:7461383" H 1350 3600 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 1350 3500 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 1350 3400 50  0001 L CNN "Description"
+F 5 "12.5" H 1350 3300 50  0001 L CNN "Height"
+F 6 "" H 1350 3200 50  0001 L CNN "element14 Part Number"
+F 7 "" H 1350 3100 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 1350 3000 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 1350 2900 50  0001 L CNN "Manufacturer_Part_Number"
+	1    600  3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 5250 1500 5250
+Wire Wire Line
+	1500 3500 1500 3600
+Wire Wire Line
+	1500 3600 1500 3700
+Connection ~ 1500 3600
+Wire Wire Line
+	1500 3700 1500 3800
+Connection ~ 1500 3700
+Wire Wire Line
+	1500 3800 1500 3900
+Connection ~ 1500 3800
+Wire Wire Line
+	1500 3900 1500 4000
+Connection ~ 1500 3900
+Wire Wire Line
+	1500 4100 1500 4000
+Connection ~ 1500 4000
+Wire Wire Line
+	1500 4100 1500 4200
+Connection ~ 1500 4100
+Wire Wire Line
+	1500 3500 1500 3200
+Wire Wire Line
+	1500 2950 1800 2950
+Connection ~ 1500 3500
+Wire Wire Line
+	600  3500 600  3600
+Wire Wire Line
+	600  3600 600  3700
+Connection ~ 600  3600
+Wire Wire Line
+	600  3800 600  3700
+Connection ~ 600  3700
+Wire Wire Line
+	600  3800 600  3900
+Connection ~ 600  3800
+Wire Wire Line
+	600  3900 600  4000
+Connection ~ 600  3900
+Wire Wire Line
+	600  4100 600  4000
+Connection ~ 600  4000
+Wire Wire Line
+	600  4100 600  4200
+Connection ~ 600  4100
+$Comp
+L 7461383:7461383 IC8
+U 1 1 65462211
+P 8900 3450
+F 0 "IC8" H 9350 3715 50  0000 C CNN
+F 1 "7461383" H 9350 3624 50  0000 C CNN
+F 2 "7461383:7461383" H 9650 3550 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 9650 3450 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 9650 3350 50  0001 L CNN "Description"
+F 5 "12.5" H 9650 3250 50  0001 L CNN "Height"
+F 6 "" H 9650 3150 50  0001 L CNN "element14 Part Number"
+F 7 "" H 9650 3050 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 9650 2950 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 9650 2850 50  0001 L CNN "Manufacturer_Part_Number"
+	1    8900 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7461383:7461383 IC9
+U 1 1 654631D3
+P 8900 4550
+F 0 "IC9" H 9350 4815 50  0000 C CNN
+F 1 "7461383" H 9350 4724 50  0000 C CNN
+F 2 "7461383:7461383" H 9650 4650 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 9650 4550 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 9650 4450 50  0001 L CNN "Description"
+F 5 "12.5" H 9650 4350 50  0001 L CNN "Height"
+F 6 "" H 9650 4250 50  0001 L CNN "element14 Part Number"
+F 7 "" H 9650 4150 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 9650 4050 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 9650 3950 50  0001 L CNN "Manufacturer_Part_Number"
+	1    8900 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8650 3750 8900 3750
+Wire Wire Line
+	8900 3750 8900 3650
+Connection ~ 8900 3750
+Wire Wire Line
+	8900 3550 8900 3650
+Connection ~ 8900 3650
+Wire Wire Line
+	8900 3550 8900 3450
+Connection ~ 8900 3550
+Wire Wire Line
+	8900 3850 8900 3750
+Wire Wire Line
+	8900 3950 8900 3850
+Connection ~ 8900 3850
+Wire Wire Line
+	8900 4050 8900 3950
+Connection ~ 8900 3950
+Wire Wire Line
+	8900 4150 8900 4050
+Connection ~ 8900 4050
+Wire Wire Line
+	9800 3450 9800 3550
+Wire Wire Line
+	9800 3650 9800 3750
+Wire Wire Line
+	9800 3750 9800 3850
+Connection ~ 9800 3750
+Wire Wire Line
+	9800 3550 9800 3650
+Connection ~ 9800 3550
+Connection ~ 9800 3650
+Wire Wire Line
+	9800 3850 9800 3950
+Connection ~ 9800 3850
+Wire Wire Line
+	9800 3950 9800 4050
+Connection ~ 9800 3950
+Wire Wire Line
+	9800 4150 9800 4050
+Connection ~ 9800 4050
+Wire Wire Line
+	8900 4550 8900 4650
+Wire Wire Line
+	8900 4650 8900 4750
+Connection ~ 8900 4650
+Connection ~ 8900 4750
+Wire Wire Line
+	8900 4750 8900 4850
+Wire Wire Line
+	8900 4950 8900 4850
+Connection ~ 8900 4850
+Wire Wire Line
+	8900 5050 8900 4950
+Connection ~ 8900 4950
+Wire Wire Line
+	8900 5150 8900 5050
+Connection ~ 8900 5050
+Wire Wire Line
+	8900 5250 8900 5150
+Connection ~ 8900 5150
+Wire Wire Line
+	9800 4550 9800 4650
+Wire Wire Line
+	9800 4650 9800 4750
+Connection ~ 9800 4650
+Wire Wire Line
+	9800 4750 9800 4850
+Connection ~ 9800 4750
+Wire Wire Line
+	9800 4850 9800 4950
+Connection ~ 9800 4850
+Wire Wire Line
+	9800 4950 9800 5050
+Connection ~ 9800 4950
+Wire Wire Line
+	9800 5050 9800 5150
+Connection ~ 9800 5050
+Wire Wire Line
+	9800 5150 9800 5250
+Connection ~ 9800 5150
+Wire Wire Line
+	8900 4750 8800 4750
+Wire Wire Line
+	8950 5950 8950 5400
+Wire Wire Line
+	8800 5300 8800 4750
+Wire Wire Line
+	8800 5300 8950 5300
+Text GLabel 2350 3250 0    50   Input ~ 0
+L2
+$Comp
+L 7461383:7461383 IC10
+U 1 1 6558B3DB
+P 1100 6750
+F 0 "IC10" H 1550 7015 50  0000 C CNN
+F 1 "7461383" H 1550 6924 50  0000 C CNN
+F 2 "7461383:7461383" H 1850 6850 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 1850 6750 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 1850 6650 50  0001 L CNN "Description"
+F 5 "12.5" H 1850 6550 50  0001 L CNN "Height"
+F 6 "" H 1850 6450 50  0001 L CNN "element14 Part Number"
+F 7 "" H 1850 6350 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 1850 6250 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 1850 6150 50  0001 L CNN "Manufacturer_Part_Number"
+	1    1100 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7461383:7461383 IC11
+U 1 1 6558C883
+P 2300 6750
+F 0 "IC11" H 2750 7015 50  0000 C CNN
+F 1 "7461383" H 2750 6924 50  0000 C CNN
+F 2 "7461383:7461383" H 3050 6850 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 3050 6750 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 3050 6650 50  0001 L CNN "Description"
+F 5 "12.5" H 3050 6550 50  0001 L CNN "Height"
+F 6 "" H 3050 6450 50  0001 L CNN "element14 Part Number"
+F 7 "" H 3050 6350 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 3050 6250 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 3050 6150 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2300 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7461383:7461383 IC12
+U 1 1 6558D3CD
+P 3650 6750
+F 0 "IC12" H 4100 7015 50  0000 C CNN
+F 1 "7461383" H 4100 6924 50  0000 C CNN
+F 2 "7461383:7461383" H 4400 6850 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 4400 6750 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 4400 6650 50  0001 L CNN "Description"
+F 5 "12.5" H 4400 6550 50  0001 L CNN "Height"
+F 6 "" H 4400 6450 50  0001 L CNN "element14 Part Number"
+F 7 "" H 4400 6350 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 4400 6250 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 4400 6150 50  0001 L CNN "Manufacturer_Part_Number"
+	1    3650 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L 7461383:7461383 IC13
+U 1 1 6558DFDD
+P 4750 6750
+F 0 "IC13" H 5200 7015 50  0000 C CNN
+F 1 "7461383" H 5200 6924 50  0000 C CNN
+F 2 "7461383:7461383" H 5500 6850 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 5500 6750 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 5500 6650 50  0001 L CNN "Description"
+F 5 "12.5" H 5500 6550 50  0001 L CNN "Height"
+F 6 "" H 5500 6450 50  0001 L CNN "element14 Part Number"
+F 7 "" H 5500 6350 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 5500 6250 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 5500 6150 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4750 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 3250 2600 3250
+Text GLabel 2650 3600 0    50   Input ~ 0
+L2'
+Wire Wire Line
+	2650 3600 2900 3600
+Wire Wire Line
+	2900 3600 2900 3700
+Connection ~ 2900 3700
+Text GLabel 2750 2800 1    50   Input ~ 0
+L1
+Text GLabel 3100 3100 3    50   Input ~ 0
+L1'
+Wire Wire Line
+	2750 2800 2750 2950
+Wire Wire Line
+	3100 2950 3100 3100
+Wire Wire Line
+	6500 3050 6700 3050
+Wire Wire Line
+	2000 6750 2000 6850
+Wire Wire Line
+	2000 6850 2000 6950
+Connection ~ 2000 6850
+Wire Wire Line
+	2000 6950 2000 7050
+Connection ~ 2000 6950
+Wire Wire Line
+	2000 7150 2000 7050
+Connection ~ 2000 7050
+Wire Wire Line
+	2000 7150 2000 7250
+Connection ~ 2000 7150
+Wire Wire Line
+	2000 7250 2000 7350
+Connection ~ 2000 7250
+Wire Wire Line
+	2000 7350 2000 7450
+Connection ~ 2000 7350
+Wire Wire Line
+	1100 6750 1100 6850
+Wire Wire Line
+	1100 6850 1100 6950
+Connection ~ 1100 6850
+Wire Wire Line
+	1100 6950 1100 7050
+Connection ~ 1100 6950
+Wire Wire Line
+	1100 7350 1100 7450
+Wire Wire Line
+	1100 7250 1100 7350
+Connection ~ 1100 7350
+Wire Wire Line
+	1100 7150 1100 7250
+Connection ~ 1100 7250
+Wire Wire Line
+	1100 7050 1100 7150
+Connection ~ 1100 7050
+Connection ~ 1100 7150
+Wire Wire Line
+	2300 6750 2300 6850
+Wire Wire Line
+	2300 6850 2300 6950
+Connection ~ 2300 6850
+Wire Wire Line
+	2300 6950 2300 7050
+Connection ~ 2300 6950
+Wire Wire Line
+	2300 7050 2300 7150
+Connection ~ 2300 7050
+Wire Wire Line
+	2300 7150 2300 7250
+Connection ~ 2300 7150
+Wire Wire Line
+	2300 7350 2300 7250
+Connection ~ 2300 7250
+Wire Wire Line
+	2300 7450 2300 7350
+Connection ~ 2300 7350
+Wire Wire Line
+	3200 6750 3200 6850
+Wire Wire Line
+	3200 6850 3200 6950
+Connection ~ 3200 6850
+Wire Wire Line
+	3200 7050 3200 6950
+Connection ~ 3200 6950
+Wire Wire Line
+	3200 7050 3200 7150
+Connection ~ 3200 7050
+Wire Wire Line
+	3200 7150 3200 7250
+Connection ~ 3200 7150
+Wire Wire Line
+	3200 7250 3200 7350
+Connection ~ 3200 7250
+Wire Wire Line
+	3200 7350 3200 7450
+Connection ~ 3200 7350
+Wire Wire Line
+	3650 6750 3650 6850
+Wire Wire Line
+	3650 6850 3650 6950
+Connection ~ 3650 6850
+Wire Wire Line
+	3650 6950 3650 7000
+Connection ~ 3650 6950
+Wire Wire Line
+	3650 7050 3650 7150
+Connection ~ 3650 7050
+Wire Wire Line
+	3650 7150 3650 7250
+Connection ~ 3650 7150
+Wire Wire Line
+	3650 7350 3650 7250
+Connection ~ 3650 7250
+Wire Wire Line
+	3650 7350 3650 7450
+Connection ~ 3650 7350
+Wire Wire Line
+	4550 6750 4550 6850
+Wire Wire Line
+	4550 6850 4550 6950
+Connection ~ 4550 6850
+Wire Wire Line
+	4550 6950 4550 7050
+Connection ~ 4550 6950
+Wire Wire Line
+	4550 7050 4550 7150
+Connection ~ 4550 7050
+Wire Wire Line
+	4550 7150 4550 7250
+Connection ~ 4550 7150
+Wire Wire Line
+	4550 7350 4550 7250
+Connection ~ 4550 7250
+Wire Wire Line
+	4550 7450 4550 7350
+Connection ~ 4550 7350
+Wire Wire Line
+	4750 6750 4750 6850
+Wire Wire Line
+	4750 6950 4750 6850
+Connection ~ 4750 6850
+Wire Wire Line
+	4750 7050 4750 6950
+Connection ~ 4750 6950
+Wire Wire Line
+	4750 7150 4750 7050
+Connection ~ 4750 7050
+Wire Wire Line
+	4750 7250 4750 7150
+Connection ~ 4750 7150
+Wire Wire Line
+	4750 7350 4750 7250
+Connection ~ 4750 7250
+Wire Wire Line
+	4750 7450 4750 7350
+Connection ~ 4750 7350
+Wire Wire Line
+	5650 6850 5650 6750
+Wire Wire Line
+	5650 6950 5650 6850
+Connection ~ 5650 6850
+Wire Wire Line
+	5650 7050 5650 6950
+Connection ~ 5650 6950
+Wire Wire Line
+	5650 7150 5650 7050
+Connection ~ 5650 7050
+Wire Wire Line
+	5650 7250 5650 7150
+Connection ~ 5650 7150
+Wire Wire Line
+	5650 7350 5650 7250
+Connection ~ 5650 7250
+Wire Wire Line
+	5650 7450 5650 7350
+Connection ~ 5650 7350
+Text GLabel 950  7050 0    50   Input ~ 0
+L2
+Text GLabel 2200 7150 0    50   Input ~ 0
+L2'
+Text GLabel 3500 7000 0    50   Input ~ 0
+L1
+Text GLabel 4600 7500 3    50   Input ~ 0
+L1'
+Wire Wire Line
+	950  7050 1100 7050
+Wire Wire Line
+	2200 7150 2300 7150
+Wire Wire Line
+	3500 7000 3650 7000
+Connection ~ 3650 7000
+Wire Wire Line
+	3650 7000 3650 7050
+Wire Wire Line
+	4600 7500 4600 7350
+Wire Wire Line
+	4600 7350 4750 7350
+Wire Wire Line
+	1500 3200 600  3200
+Wire Wire Line
+	600  3200 600  3500
+Connection ~ 1500 3200
+Wire Wire Line
+	1500 3200 1500 2950
+Connection ~ 600  3500
+Wire Wire Line
+	2000 6750 2000 6400
+Wire Wire Line
+	2000 6400 1100 6400
+Wire Wire Line
+	1100 6400 1100 6750
+Connection ~ 2000 6750
+Connection ~ 1100 6750
+Wire Wire Line
+	2300 7450 2300 7600
+Wire Wire Line
+	2300 7600 3200 7600
+Wire Wire Line
+	3200 7600 3200 7450
+Connection ~ 2300 7450
+Connection ~ 3200 7450
+Wire Wire Line
+	4550 7450 4550 7500
+Wire Wire Line
+	4550 7500 4450 7500
+Wire Wire Line
+	4450 7500 4450 7600
+Wire Wire Line
+	4450 7600 3650 7600
+Wire Wire Line
+	3650 7600 3650 7450
+Connection ~ 4550 7450
+Connection ~ 3650 7450
+Wire Wire Line
+	4750 7450 4750 7700
+Wire Wire Line
+	4750 7700 5650 7700
+Wire Wire Line
+	5650 7700 5650 7450
+Connection ~ 4750 7450
+Connection ~ 5650 7450
+Wire Wire Line
+	8950 5400 9800 5400
+Wire Wire Line
+	9800 5400 9800 5250
+Connection ~ 8950 5400
+Wire Wire Line
+	8950 5400 8950 5300
+Connection ~ 9800 5250
+Wire Wire Line
+	8650 3150 9800 3150
+Wire Wire Line
+	9800 3150 9800 3450
+Connection ~ 8650 3150
+Wire Wire Line
+	8650 3150 8650 3750
+Connection ~ 9800 3450
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6AE63
+P 800 1000
+AR Path="/65D6AE63" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6AE63" Ref="H7"  Part="1" 
+F 0 "H7" H 900 1046 50  0000 L CNN
+F 1 "MountingHole" H 900 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 1000 50  0001 C CNN
+F 3 "~" H 800 1000 50  0001 C CNN
+	1    800  1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6B03A
+P 800 800
+AR Path="/65D6B03A" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6B03A" Ref="H6"  Part="1" 
+F 0 "H6" H 900 846 50  0000 L CNN
+F 1 "MountingHole" H 900 755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 800 800 50  0001 C CNN
+F 3 "~" H 800 800 50  0001 C CNN
+	1    800  800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6B1EF
+P 1550 800
+AR Path="/65D6B1EF" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6B1EF" Ref="H8"  Part="1" 
+F 0 "H8" H 1650 846 50  0000 L CNN
+F 1 "MountingHole" H 1650 755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 800 50  0001 C CNN
+F 3 "~" H 1550 800 50  0001 C CNN
+	1    1550 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6B3E6
+P 1550 1000
+AR Path="/65D6B3E6" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6B3E6" Ref="H9"  Part="1" 
+F 0 "H9" H 1650 1046 50  0000 L CNN
+F 1 "MountingHole" H 1650 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 1000 50  0001 C CNN
+F 3 "~" H 1550 1000 50  0001 C CNN
+	1    1550 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6B571
+P 1550 1200
+AR Path="/65D6B571" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6B571" Ref="H10"  Part="1" 
+F 0 "H10" H 1650 1246 50  0000 L CNN
+F 1 "MountingHole" H 1650 1155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 1200 50  0001 C CNN
+F 3 "~" H 1550 1200 50  0001 C CNN
+	1    1550 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 65D6B7D7
+P 1550 1400
+AR Path="/65D6B7D7" Ref="H?"  Part="1" 
+AR Path="/65333553/65D6B7D7" Ref="H15"  Part="1" 
+F 0 "H15" H 1650 1446 50  0000 L CNN
+F 1 "MountingHole" H 1650 1355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 1400 50  0001 C CNN
+F 3 "~" H 1550 1400 50  0001 C CNN
+	1    1550 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L OMNI-UNI-41-75:OMNI-UNI-41-75 H5
+U 1 1 65E950A0
+P 4700 900
+F 0 "H5" H 5328 896 50  0000 L CNN
+F 1 "OMNI-UNI-41-75" H 5328 805 50  0000 L CNN
+F 2 "OMNI-UNI-41-75:OMNIUNI4175" H 5350 1000 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/OMNI-UNI-41-75.pdf" H 5350 900 50  0001 L CNN
+F 4 "Heat Sinks omniKlip Heatsink for any TO except TO-220, 2 Universal Clips, 41mm Wide, 75mm Long, Aluminum, Black Anodized" H 5350 800 50  0001 L CNN "Description"
+F 5 "63" H 5350 700 50  0001 L CNN "Height"
+F 6 "567-OMNI-UNI-41-75" H 5350 600 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Wakefield-Vette/OMNI-UNI-41-75?qs=u4fy%2FsgLU9MMQhJzv7kr6g%3D%3D" H 5350 500 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Wakefield Thermal" H 5350 400 50  0001 L CNN "Manufacturer_Name"
+F 9 "OMNI-UNI-41-75" H 5350 300 50  0001 L CNN "Manufacturer_Part_Number"
+	1    4700 900 
+	1    0    0    -1  
+$EndComp
+Text GLabel 6500 3050 0    50   Input ~ 0
+L3
+Wire Wire Line
+	6500 3350 6700 3350
+Wire Wire Line
+	6700 3350 6700 3450
+Wire Wire Line
+	5900 3950 6150 3950
+Wire Wire Line
+	6150 3950 6150 4100
+Wire Wire Line
+	6150 3450 6350 3450
+Wire Wire Line
+	6050 4100 6150 4100
+Wire Wire Line
+	6050 4150 6050 4100
+Wire Wire Line
+	6050 4550 6250 4550
+$Comp
+L pspice:DIODE D7
+U 1 1 653121D0
+P 6050 4350
+F 0 "D7" V 6004 4478 50  0000 L CNN
+F 1 "DIODE" V 6095 4478 50  0000 L CNN
+F 2 "Diode_THT:D_P600_R-6_P12.70mm_Horizontal" H 6050 4350 50  0001 C CNN
+F 3 "~" H 6050 4350 50  0001 C CNN
+	1    6050 4350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6250 4450 6250 4550
+Text GLabel 6250 4450 1    50   Input ~ 0
+gnd4
+Wire Wire Line
+	6250 4900 6250 4750
+Text GLabel 6250 4900 3    50   Input ~ 0
+G4
+Connection ~ 6050 4550
+Wire Wire Line
+	5650 4550 6050 4550
+Connection ~ 6250 4550
+$Comp
+L VS-40TPS12A-M3:VS-40TPS12A-M3 D?
+U 1 1 6534C811
+P 6250 4550
+AR Path="/6534C811" Ref="D?"  Part="1" 
+AR Path="/65333553/6534C811" Ref="D3"  Part="1" 
+F 0 "D3" H 6878 4496 50  0000 L CNN
+F 1 "VS-40TPS12A-M3" H 6878 4405 50  0000 L CNN
+F 2 "VS-40TPS12A-M3:TO546P531X1558X2499-3P" H 6900 4650 50  0001 L CNN
+F 3 "https://www.vishay.com/docs/94388/vs-40tps-m3series.pdf" H 6900 4550 50  0001 L CNN
+F 4 "Thyristor,40TPS12A 40A 1200V" H 6900 4450 50  0001 L CNN "Description"
+F 5 "5.31" H 6900 4350 50  0001 L CNN "Height"
+F 6 "Vishay" H 6900 4250 50  0001 L CNN "Manufacturer_Name"
+F 7 "VS-40TPS12A-M3" H 6900 4150 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "844-40TPS12A-M3" H 6900 4050 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VS-40TPS12A-M3?qs=asPD7ZL2j3XFh5SqHijKAQ%3D%3D" H 6900 3950 50  0001 L CNN "Mouser Price/Stock"
+F 10 "VS-40TPS12A-M3" H 6900 3850 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/vs-40tps12a-m3/vishay?region=nac" H 6900 3750 50  0001 L CNN "Arrow Price/Stock"
+	1    6250 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L SQP500JB-100R:SQP500JB-100R R?
+U 1 1 6534C7A1
+P 5900 3950
+AR Path="/6534C7A1" Ref="R?"  Part="1" 
+AR Path="/65333553/6534C7A1" Ref="R3"  Part="1" 
+F 0 "R3" V 6204 4038 50  0000 L CNN
+F 1 "SQP500JB-100R" V 6295 4038 50  0000 L CNN
+F 2 "5W:RESAD6000W85L2200D950" H 6450 4000 50  0001 L CNN
+F 3 "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_SQP_NSP_2013.pdf" H 6450 3900 50  0001 L CNN
+F 4 "Yageo 100 Through Hole Fixed Resistor 5W 5% SQP500JB-100R" H 6450 3800 50  0001 L CNN "Description"
+F 5 "" H 6450 3700 50  0001 L CNN "Height"
+F 6 "KEMET" H 6450 3600 50  0001 L CNN "Manufacturer_Name"
+F 7 "SQP500JB-100R" H 6450 3500 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "603-SQP500JB-100R" H 6450 3400 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=603-SQP500JB-100R" H 6450 3300 50  0001 L CNN "Mouser Price/Stock"
+F 10 "SQP500JB-100R" H 6450 3200 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/sqp500jb-100r/yageo" H 6450 3100 50  0001 L CNN "Arrow Price/Stock"
+	1    5900 3950
+	0    1    1    0   
+$EndComp
+Connection ~ 6150 3950
+$Comp
+L ECW-FG2J105K:ECW-FG2J105K C?
+U 1 1 6534C75B
+P 6150 3450
+AR Path="/6534C75B" Ref="C?"  Part="1" 
+AR Path="/65333553/6534C75B" Ref="C4"  Part="1" 
+F 0 "C4" V 6354 3578 50  0000 L CNN
+F 1 "ECW-FG2J105K" V 6445 3578 50  0000 L CNN
+F 2 "ECW-FG2J105K:ECWFG2J105K" H 6500 3500 50  0001 L CNN
+F 3 "http://industrial.panasonic.com/cdbs/www-data/pdf/RDL0000/RDL0000C245.pdf" H 6500 3400 50  0001 L CNN
+F 4 "1F Film Capacitor 141V 630V Polypropylene (PP), Metallized Radial" H 6500 3300 50  0001 L CNN "Description"
+F 5 "18.5" H 6500 3200 50  0001 L CNN "Height"
+F 6 "Panasonic" H 6500 3100 50  0001 L CNN "Manufacturer_Name"
+F 7 "ECW-FG2J105K" H 6500 3000 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "" H 6500 2900 50  0001 L CNN "Mouser Part Number"
+F 9 "" H 6500 2800 50  0001 L CNN "Mouser Price/Stock"
+F 10 "" H 6500 2700 50  0001 L CNN "Arrow Part Number"
+F 11 "" H 6500 2600 50  0001 L CNN "Arrow Price/Stock"
+	1    6150 3450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10000 6400 10900 6400
+Text GLabel 9850 5850 0    50   Input ~ 0
+L3'
+Connection ~ 10000 5850
+Wire Wire Line
+	9850 5850 10000 5850
+Text GLabel 9900 4350 0    50   Input ~ 0
+L3
+Wire Wire Line
+	9900 4350 10000 4350
+Wire Wire Line
+	10000 5250 10900 5250
+Wire Wire Line
+	10900 6400 10900 6250
+Connection ~ 10900 6250
+Wire Wire Line
+	10900 6250 10900 6150
+Connection ~ 10900 6150
+Wire Wire Line
+	10900 6050 10900 6150
+Connection ~ 10900 6050
+Wire Wire Line
+	10900 5950 10900 6050
+Connection ~ 10900 5950
+Wire Wire Line
+	10900 5950 10900 5850
+Connection ~ 10900 5850
+Wire Wire Line
+	10900 5850 10900 5750
+Connection ~ 10900 5750
+Wire Wire Line
+	10900 5750 10900 5650
+Wire Wire Line
+	10900 5650 10900 5550
+Connection ~ 10900 5650
+Wire Wire Line
+	10000 6250 10000 6400
+Connection ~ 10000 6250
+Wire Wire Line
+	10000 6250 10000 6150
+Connection ~ 10000 6150
+Wire Wire Line
+	10000 6150 10000 6050
+Connection ~ 10000 6050
+Wire Wire Line
+	10000 6050 10000 5950
+Wire Wire Line
+	10000 5950 10000 5850
+Connection ~ 10000 5950
+Wire Wire Line
+	10000 5750 10000 5850
+Connection ~ 10000 5750
+Wire Wire Line
+	10000 5650 10000 5750
+Wire Wire Line
+	10000 5550 10000 5650
+Connection ~ 10000 5650
+$Comp
+L 7461383:7461383 IC15
+U 1 1 6558E7D8
+P 10000 5550
+F 0 "IC15" H 10450 5815 50  0000 C CNN
+F 1 "7461383" H 10450 5724 50  0000 C CNN
+F 2 "7461383:7461383" H 10750 5650 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 10750 5550 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 10750 5450 50  0001 L CNN "Description"
+F 5 "12.5" H 10750 5350 50  0001 L CNN "Height"
+F 6 "" H 10750 5250 50  0001 L CNN "element14 Part Number"
+F 7 "" H 10750 5150 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 10750 5050 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 10750 4950 50  0001 L CNN "Manufacturer_Part_Number"
+	1    10000 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10900 5250 10900 5050
+Connection ~ 10900 5050
+Wire Wire Line
+	10900 5050 10900 4950
+Connection ~ 10900 4950
+Wire Wire Line
+	10900 4850 10900 4950
+Connection ~ 10900 4850
+Wire Wire Line
+	10900 4850 10900 4750
+Connection ~ 10900 4750
+Wire Wire Line
+	10900 4650 10900 4750
+Connection ~ 10900 4650
+Wire Wire Line
+	10900 4550 10900 4650
+Connection ~ 10900 4550
+Wire Wire Line
+	10900 4450 10900 4550
+Wire Wire Line
+	10900 4350 10900 4450
+Connection ~ 10900 4450
+Wire Wire Line
+	10000 5050 10000 5250
+Connection ~ 10000 5050
+Wire Wire Line
+	10000 4950 10000 5050
+Connection ~ 10000 4950
+Wire Wire Line
+	10000 4850 10000 4950
+Connection ~ 10000 4850
+Wire Wire Line
+	10000 4750 10000 4850
+Connection ~ 10000 4750
+Wire Wire Line
+	10000 4650 10000 4750
+Connection ~ 10000 4650
+Wire Wire Line
+	10000 4550 10000 4650
+Connection ~ 10000 4550
+Wire Wire Line
+	10000 4550 10000 4450
+Wire Wire Line
+	10000 4350 10000 4450
+Connection ~ 10000 4450
+Connection ~ 10000 4350
+$Comp
+L 7461383:7461383 IC14
+U 1 1 6558F0D0
+P 10000 4350
+F 0 "IC14" H 10450 4615 50  0000 C CNN
+F 1 "7461383" H 10450 4524 50  0000 C CNN
+F 2 "7461383:7461383" H 10750 4450 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 10750 4350 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 10750 4250 50  0001 L CNN "Description"
+F 5 "12.5" H 10750 4150 50  0001 L CNN "Height"
+F 6 "" H 10750 4050 50  0001 L CNN "element14 Part Number"
+F 7 "" H 10750 3950 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 10750 3850 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 10750 3750 50  0001 L CNN "Manufacturer_Part_Number"
+	1    10000 4350
+	1    0    0    -1  
+$EndComp
+Text GLabel 6500 3350 0    50   Input ~ 0
+L3'
+$Comp
+L B43547A9107M060:B43547A9107M060 C?
+U 1 1 6553E3C6
+P 4350 5200
+AR Path="/6553E3C6" Ref="C?"  Part="1" 
+AR Path="/65333553/6553E3C6" Ref="C11"  Part="1" 
+F 0 "C11" V 4254 5330 50  0000 L CNN
+F 1 "B43547A9107M060" V 4345 5330 50  0000 L CNN
+F 2 "B43547A9107M060:CAPPRD1000W190D2550H2700" H 4350 5200 50  0001 L BNN
+F 3 "" H 4350 5200 50  0001 L BNN
+F 4 "TDK" H 4350 5200 50  0001 L BNN "MF"
+F 5 "27.0 mm" H 4350 5200 50  0001 L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F 6 "None" H 4350 5200 50  0001 L BNN "Package"
+F 7 "None" H 4350 5200 50  0001 L BNN "Price"
+F 8 "https://www.snapeda.com/parts/B43547A9107M060/TDK/view-part/?ref=eda" H 4350 5200 50  0001 L BNN "Check_prices"
+F 9 "IPC-7351B" H 4350 5200 50  0001 L BNN "STANDARD"
+F 10 "2018-10" H 4350 5200 50  0001 L BNN "PARTREV"
+F 11 "https://www.snapeda.com/parts/B43547A9107M060/TDK/view-part/?ref=snap" H 4350 5200 50  0001 L BNN "SnapEDA_Link"
+F 12 "B43547A9107M060" H 4350 5200 50  0001 L BNN "MP"
+F 13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12405429&manufacturer=TDK&part_name=B43547A9107M060&search_term=100 µf 400 v aluminum electrolytic capacitors radial" H 4350 5200 50  0001 L BNN "Purchase-URL"
+F 14 "\\n100 µF 400 V Aluminum Electrolytic Capacitors Radial, Can - Snap-In 520mOhm @ 100Hz 8000 Hrs @ 105°C\\n" H 4350 5200 50  0001 L BNN "Description"
+F 15 "In Stock" H 4350 5200 50  0001 L BNN "Availability"
+F 16 "TDK" H 4350 5200 50  0001 L BNN "MANUFACTURER"
+	1    4350 5200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4350 5000 4350 4750
+Connection ~ 4350 4750
+Wire Wire Line
+	4350 4750 4650 4750
+Wire Wire Line
+	4350 5300 4650 5300
+Connection ~ 4650 5300
+$Comp
+L VS-40TPS12A-M3:VS-40TPS12A-M3 D?
+U 1 1 6534C702
+P 2750 4900
+AR Path="/6534C702" Ref="D?"  Part="1" 
+AR Path="/65333553/6534C702" Ref="D1"  Part="1" 
+F 0 "D1" H 3042 4435 50  0000 C CNN
+F 1 "VS-40TPS12A-M3" H 3042 4526 50  0000 C CNN
+F 2 "VS-40TPS12A-M3:TO546P531X1558X2499-3P" H 3400 5000 50  0001 L CNN
+F 3 "https://www.vishay.com/docs/94388/vs-40tps-m3series.pdf" H 3400 4900 50  0001 L CNN
+F 4 "Thyristor,40TPS12A 40A 1200V" H 3400 4800 50  0001 L CNN "Description"
+F 5 "5.31" H 3400 4700 50  0001 L CNN "Height"
+F 6 "Vishay" H 3400 4600 50  0001 L CNN "Manufacturer_Name"
+F 7 "VS-40TPS12A-M3" H 3400 4500 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "844-40TPS12A-M3" H 3400 4400 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VS-40TPS12A-M3?qs=asPD7ZL2j3XFh5SqHijKAQ%3D%3D" H 3400 4300 50  0001 L CNN "Mouser Price/Stock"
+F 10 "VS-40TPS12A-M3" H 3400 4200 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/vs-40tps12a-m3/vishay?region=nac" H 3400 4100 50  0001 L CNN "Arrow Price/Stock"
+	1    2750 4900
+	-1   0    0    1   
+$EndComp
+$Comp
+L VS-40TPS12A-M3:VS-40TPS12A-M3 D?
+U 1 1 6534C710
+P 3800 2850
+AR Path="/6534C710" Ref="D?"  Part="1" 
+AR Path="/65333553/6534C710" Ref="D2"  Part="1" 
+F 0 "D2" H 4428 2796 50  0000 L CNN
+F 1 "VS-40TPS12A-M3" H 4428 2705 50  0000 L CNN
+F 2 "VS-40TPS12A-M3:TO546P531X1558X2499-3P" H 4450 2950 50  0001 L CNN
+F 3 "https://www.vishay.com/docs/94388/vs-40tps-m3series.pdf" H 4450 2850 50  0001 L CNN
+F 4 "Thyristor,40TPS12A 40A 1200V" H 4450 2750 50  0001 L CNN "Description"
+F 5 "5.31" H 4450 2650 50  0001 L CNN "Height"
+F 6 "Vishay" H 4450 2550 50  0001 L CNN "Manufacturer_Name"
+F 7 "VS-40TPS12A-M3" H 4450 2450 50  0001 L CNN "Manufacturer_Part_Number"
+F 8 "844-40TPS12A-M3" H 4450 2350 50  0001 L CNN "Mouser Part Number"
+F 9 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VS-40TPS12A-M3?qs=asPD7ZL2j3XFh5SqHijKAQ%3D%3D" H 4450 2250 50  0001 L CNN "Mouser Price/Stock"
+F 10 "VS-40TPS12A-M3" H 4450 2150 50  0001 L CNN "Arrow Part Number"
+F 11 "https://www.arrow.com/en/products/vs-40tps12a-m3/vishay?region=nac" H 4450 2050 50  0001 L CNN "Arrow Price/Stock"
+	1    3800 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 3450 6350 4600
+Connection ~ 6350 3450
+Wire Wire Line
+	6350 3450 6700 3450
+Wire Wire Line
+	6050 4550 6050 4650
+Wire Wire Line
+	6050 4650 5900 4650
+Wire Wire Line
+	6250 4650 6250 4600
+Wire Wire Line
+	6250 4600 6350 4600
+Wire Wire Line
+	1450 5350 1450 5250
+Wire Wire Line
+	1450 5950 1450 5350
+Connection ~ 1450 5350
+Wire Wire Line
+	600  5350 1450 5350
+Wire Wire Line
+	1500 5250 1500 5200
+Connection ~ 1500 5200
+Wire Wire Line
+	1500 5100 1500 5200
+Connection ~ 1500 5100
+Wire Wire Line
+	1500 5000 1500 5100
+Connection ~ 1500 5000
+Wire Wire Line
+	1500 4900 1500 5000
+Connection ~ 1500 4900
+Wire Wire Line
+	1500 4800 1500 4900
+Connection ~ 1500 4800
+Wire Wire Line
+	1500 4700 1500 4800
+Connection ~ 1500 4700
+Wire Wire Line
+	1500 4500 1500 4600
+Wire Wire Line
+	1500 4600 1500 4700
+Connection ~ 1500 4600
+Wire Wire Line
+	600  5200 600  5350
+Connection ~ 600  5200
+Wire Wire Line
+	600  5100 600  5200
+Connection ~ 600  5100
+Wire Wire Line
+	600  5000 600  5100
+Connection ~ 600  5000
+Wire Wire Line
+	600  4900 600  5000
+Connection ~ 600  4900
+Wire Wire Line
+	600  4800 600  4900
+Connection ~ 600  4800
+Wire Wire Line
+	600  4700 600  4800
+Connection ~ 600  4700
+Wire Wire Line
+	600  4600 600  4700
+Wire Wire Line
+	600  4500 600  4600
+Connection ~ 600  4600
+$Comp
+L 7461383:7461383 IC7
+U 1 1 653AE03C
+P 600 4500
+F 0 "IC7" H 1050 4765 50  0000 C CNN
+F 1 "7461383" H 1050 4674 50  0000 C CNN
+F 2 "7461383:7461383" H 1350 4600 50  0001 L CNN
+F 3 "https://www.we-online.com/catalog/datasheet/7461383.pdf" H 1350 4500 50  0001 L CNN
+F 4 "REDCUBE PRESS-FIT with external thread and full plain pin-plate WPSHFU" H 1350 4400 50  0001 L CNN "Description"
+F 5 "12.5" H 1350 4300 50  0001 L CNN "Height"
+F 6 "" H 1350 4200 50  0001 L CNN "element14 Part Number"
+F 7 "" H 1350 4100 50  0001 L CNN "element14 Price/Stock"
+F 8 "Wurth Elektronik" H 1350 4000 50  0001 L CNN "Manufacturer_Name"
+F 9 "7461383" H 1350 3900 50  0001 L CNN "Manufacturer_Part_Number"
+	1    600  4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L 105-2210-201:105-2210-201 Sense?
+U 1 1 6599AEAB
+P 3800 2650
+AR Path="/6599AEAB" Ref="Sense?"  Part="1" 
+AR Path="/65333553/6599AEAB" Ref="K1"  Part="1" 
+F 0 "K1" V 4300 2600 50  0000 L CNN
+F 1 "105-2210-201" V 4137 2778 50  0000 L CNN
+F 2 "105-2210-201:1052210201" H 4450 2750 50  0001 L CNN
+F 3 "https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-2210-201.pdf" H 4450 2650 50  0001 L CNN
+F 4 "Test Plugs & Test Jacks TEST JACK BLUE" H 4450 2550 50  0001 L CNN "Description"
+F 5 "7.92" H 4450 2450 50  0001 L CNN "Height"
+F 6 "530-105-2210-1" H 4450 2350 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.co.uk/ProductDetail/Johnson-Cinch-Connectivity-Solutions/105-2210-201?qs=6YhTptf0WO3vUhJXRINNJw%3D%3D" H 4450 2250 50  0001 L CNN "Mouser Price/Stock"
+F 8 "Cinch Connectivity Solutions" H 4450 2150 50  0001 L CNN "Manufacturer_Name"
+F 9 "105-2210-201" H 4450 2050 50  0001 L CNN "Manufacturer_Part_Number"
+	1    3800 2650
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3800 2650
+Wire Wire Line
+	4650 5950 8550 5950
+Wire Wire Line
+	3750 4750 4350 4750
+Wire Wire Line
+	3100 2950 3350 2950
+$Comp
+L 5000:5000 TP7
+U 1 1 656F4E2F
+P 4350 4550
+F 0 "TP7" V 4312 4475 50  0000 R CNN
+F 1 "5000" V 4221 4475 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 4350 4550 50  0001 L BNN
+F 3 "" H 4350 4550 50  0001 L BNN
+F 4 "Keystone Electronics" H 4350 4550 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 4350 4550 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 4350 4550 50  0001 L BNN "PACKAGE"
+F 7 "None" H 4350 4550 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 4350 4550 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 4350 4550 50  0001 L BNN "Check_prices"
+F 10 "None" H 4350 4550 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 4350 4550 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 4350 4550 50  0001 L BNN "MP"
+F 13 "In Stock" H 4350 4550 50  0001 L BNN "Availability"
+F 14 "In Stock" H 4350 4550 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 4350 4550 50  0001 L BNN "Description"
+	1    4350 4550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 5000:5000 TP8
+U 1 1 656F6F55
+P 4350 5500
+F 0 "TP8" V 4219 5575 50  0000 L CNN
+F 1 "5000" V 4310 5575 50  0000 L CNN
+F 2 "5000:KEYSTONE_5000" H 4350 5500 50  0001 L BNN
+F 3 "" H 4350 5500 50  0001 L BNN
+F 4 "Keystone Electronics" H 4350 5500 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 4350 5500 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 4350 5500 50  0001 L BNN "PACKAGE"
+F 7 "None" H 4350 5500 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 4350 5500 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 4350 5500 50  0001 L BNN "Check_prices"
+F 10 "None" H 4350 5500 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 4350 5500 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 4350 5500 50  0001 L BNN "MP"
+F 13 "In Stock" H 4350 5500 50  0001 L BNN "Availability"
+F 14 "In Stock" H 4350 5500 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 4350 5500 50  0001 L BNN "Description"
+	1    4350 5500
+	0    1    1    0   
+$EndComp
+Connection ~ 4350 5300
+$Comp
+L 5000:5000 TP3
+U 1 1 656F857A
+P 3350 2750
+F 0 "TP3" V 3312 2675 50  0000 R CNN
+F 1 "5000" V 3221 2675 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 3350 2750 50  0001 L BNN
+F 3 "" H 3350 2750 50  0001 L BNN
+F 4 "Keystone Electronics" H 3350 2750 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 3350 2750 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 3350 2750 50  0001 L BNN "PACKAGE"
+F 7 "None" H 3350 2750 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 3350 2750 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 3350 2750 50  0001 L BNN "Check_prices"
+F 10 "None" H 3350 2750 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 3350 2750 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 3350 2750 50  0001 L BNN "MP"
+F 13 "In Stock" H 3350 2750 50  0001 L BNN "Availability"
+F 14 "In Stock" H 3350 2750 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 3350 2750 50  0001 L BNN "Description"
+	1    3350 2750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 3350 2950
+Wire Wire Line
+	3350 2950 3800 2950
+$Comp
+L 5000:5000 TP6
+U 1 1 656FA20B
+P 3600 2650
+F 0 "TP6" H 3516 2438 50  0000 C CNN
+F 1 "5000" H 3516 2529 50  0000 C CNN
+F 2 "5000:KEYSTONE_5000" H 3600 2650 50  0001 L BNN
+F 3 "" H 3600 2650 50  0001 L BNN
+F 4 "Keystone Electronics" H 3600 2650 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 3600 2650 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 3600 2650 50  0001 L BNN "PACKAGE"
+F 7 "None" H 3600 2650 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 3600 2650 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 3600 2650 50  0001 L BNN "Check_prices"
+F 10 "None" H 3600 2650 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 3600 2650 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 3600 2650 50  0001 L BNN "MP"
+F 13 "In Stock" H 3600 2650 50  0001 L BNN "Availability"
+F 14 "In Stock" H 3600 2650 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 3600 2650 50  0001 L BNN "Description"
+	1    3600 2650
+	-1   0    0    1   
+$EndComp
+$Comp
+L 5000:5000 TP9
+U 1 1 656FB3E3
+P 8550 2750
+F 0 "TP9" V 8512 2675 50  0000 R CNN
+F 1 "5000" V 8421 2675 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 8550 2750 50  0001 L BNN
+F 3 "" H 8550 2750 50  0001 L BNN
+F 4 "Keystone Electronics" H 8550 2750 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 8550 2750 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 8550 2750 50  0001 L BNN "PACKAGE"
+F 7 "None" H 8550 2750 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 8550 2750 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 8550 2750 50  0001 L BNN "Check_prices"
+F 10 "None" H 8550 2750 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 8550 2750 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 8550 2750 50  0001 L BNN "MP"
+F 13 "In Stock" H 8550 2750 50  0001 L BNN "Availability"
+F 14 "In Stock" H 8550 2750 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 8550 2750 50  0001 L BNN "Description"
+	1    8550 2750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 8550 2950
+Wire Wire Line
+	8550 2950 8650 2950
+$Comp
+L 5000:5000 TP10
+U 1 1 656FC820
+P 8550 5750
+F 0 "TP10" V 8512 5675 50  0000 R CNN
+F 1 "5000" V 8421 5675 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 8550 5750 50  0001 L BNN
+F 3 "" H 8550 5750 50  0001 L BNN
+F 4 "Keystone Electronics" H 8550 5750 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 8550 5750 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 8550 5750 50  0001 L BNN "PACKAGE"
+F 7 "None" H 8550 5750 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 8550 5750 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 8550 5750 50  0001 L BNN "Check_prices"
+F 10 "None" H 8550 5750 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 8550 5750 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 8550 5750 50  0001 L BNN "MP"
+F 13 "In Stock" H 8550 5750 50  0001 L BNN "Availability"
+F 14 "In Stock" H 8550 5750 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 8550 5750 50  0001 L BNN "Description"
+	1    8550 5750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 8550 5950
+Wire Wire Line
+	8550 5950 8950 5950
+$Comp
+L 5000:5000 TP1
+U 1 1 656FD2F1
+P 1800 2750
+F 0 "TP1" V 1762 2675 50  0000 R CNN
+F 1 "5000" V 1671 2675 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 1800 2750 50  0001 L BNN
+F 3 "" H 1800 2750 50  0001 L BNN
+F 4 "Keystone Electronics" H 1800 2750 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 1800 2750 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 1800 2750 50  0001 L BNN "PACKAGE"
+F 7 "None" H 1800 2750 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 1800 2750 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 1800 2750 50  0001 L BNN "Check_prices"
+F 10 "None" H 1800 2750 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 1800 2750 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 1800 2750 50  0001 L BNN "MP"
+F 13 "In Stock" H 1800 2750 50  0001 L BNN "Availability"
+F 14 "In Stock" H 1800 2750 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 1800 2750 50  0001 L BNN "Description"
+	1    1800 2750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1800 2950
+Wire Wire Line
+	1800 2950 2050 2950
+$Comp
+L 5000:5000 TP2
+U 1 1 656FDD8C
+P 1900 5750
+F 0 "TP2" V 1862 5675 50  0000 R CNN
+F 1 "5000" V 1771 5675 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 1900 5750 50  0001 L BNN
+F 3 "" H 1900 5750 50  0001 L BNN
+F 4 "Keystone Electronics" H 1900 5750 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 1900 5750 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 1900 5750 50  0001 L BNN "PACKAGE"
+F 7 "None" H 1900 5750 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 1900 5750 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 1900 5750 50  0001 L BNN "Check_prices"
+F 10 "None" H 1900 5750 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 1900 5750 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 1900 5750 50  0001 L BNN "MP"
+F 13 "In Stock" H 1900 5750 50  0001 L BNN "Availability"
+F 14 "In Stock" H 1900 5750 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 1900 5750 50  0001 L BNN "Description"
+	1    1900 5750
+	0    -1   -1   0   
+$EndComp
+Connection ~ 1900 5950
+Wire Wire Line
+	1900 5950 1450 5950
+Wire Wire Line
+	1900 5950 4650 5950
+$Comp
+L 5000:5000 TP17
+U 1 1 6576FEF9
+P 9750 2400
+F 0 "TP17" V 9712 2325 50  0000 R CNN
+F 1 "5000" V 9621 2325 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 9750 2400 50  0001 L BNN
+F 3 "" H 9750 2400 50  0001 L BNN
+F 4 "Keystone Electronics" H 9750 2400 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 9750 2400 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 9750 2400 50  0001 L BNN "PACKAGE"
+F 7 "None" H 9750 2400 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 9750 2400 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 9750 2400 50  0001 L BNN "Check_prices"
+F 10 "None" H 9750 2400 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 9750 2400 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 9750 2400 50  0001 L BNN "MP"
+F 13 "In Stock" H 9750 2400 50  0001 L BNN "Availability"
+F 14 "In Stock" H 9750 2400 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 9750 2400 50  0001 L BNN "Description"
+	1    9750 2400
+	0    1    1    0   
+$EndComp
+Connection ~ 9750 2200
+$Comp
+L 5000:5000 TP18
+U 1 1 65771CAF
+P 9950 1800
+F 0 "TP18" V 9912 1725 50  0000 R CNN
+F 1 "5000" V 9821 1725 50  0000 R CNN
+F 2 "5000:KEYSTONE_5000" H 9950 1800 50  0001 L BNN
+F 3 "" H 9950 1800 50  0001 L BNN
+F 4 "Keystone Electronics" H 9950 1800 50  0001 L BNN "MF"
+F 5 "PC Test Point - Miniature" H 9950 1800 50  0001 L BNN "DESCRIPTION"
+F 6 "Test Point Keystone Electronics" H 9950 1800 50  0001 L BNN "PACKAGE"
+F 7 "None" H 9950 1800 50  0001 L BNN "PRICE"
+F 8 "Test Point Keystone Electronics" H 9950 1800 50  0001 L BNN "Package"
+F 9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" H 9950 1800 50  0001 L BNN "Check_prices"
+F 10 "None" H 9950 1800 50  0001 L BNN "Price"
+F 11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" H 9950 1800 50  0001 L BNN "SnapEDA_Link"
+F 12 "5000" H 9950 1800 50  0001 L BNN "MP"
+F 13 "In Stock" H 9950 1800 50  0001 L BNN "Availability"
+F 14 "In Stock" H 9950 1800 50  0001 L BNN "AVAILABILITY"
+F 15 "\\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\\n" H 9950 1800 50  0001 L BNN "Description"
+	1    9950 1800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 657CC33C
+P 1550 1600
+AR Path="/657CC33C" Ref="H?"  Part="1" 
+AR Path="/65333553/657CC33C" Ref="H3"  Part="1" 
+F 0 "H3" H 1650 1646 50  0000 L CNN
+F 1 "MountingHole" H 1650 1555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 1600 50  0001 C CNN
+F 3 "~" H 1550 1600 50  0001 C CNN
+	1    1550 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 657CC50E
+P 1550 1800
+AR Path="/657CC50E" Ref="H?"  Part="1" 
+AR Path="/65333553/657CC50E" Ref="H13"  Part="1" 
+F 0 "H13" H 1650 1846 50  0000 L CNN
+F 1 "MountingHole" H 1650 1755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 1550 1800 50  0001 C CNN
+F 3 "~" H 1550 1800 50  0001 C CNN
+	1    1550 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L LAUNCHXL-F28379D:LAUNCHXL-F28379D U1
+U 1 1 65711B2A
+P 7200 1600
+F 0 "U1" H 7728 1646 50  0000 L CNN
+F 1 "LAUNCHXL-F28379D" H 7728 1555 50  0000 L CNN
+F 2 "LAUNCHXL-F28379D (1):MOD_LAUNCHXL-F28379D" H 7200 1600 50  0001 L BNN
+F 3 "" H 7200 1600 50  0001 L BNN
+F 4 "Texas Instruments" H 7200 1600 50  0001 L BNN "MF"
+F 5 "\\nC2000 Delfino MCU F28379D LaunchPad™ development kit\\n" H 7200 1600 50  0001 L BNN "Description"
+F 6 "None" H 7200 1600 50  0001 L BNN "Package"
+F 7 "None" H 7200 1600 50  0001 L BNN "Price"
+F 8 "https://www.snapeda.com/parts/LAUNCHXL-F28379D/Texas+Instruments/view-part/?ref=eda" H 7200 1600 50  0001 L BNN "Check_prices"
+F 9 "Manufacturer Recommendations" H 7200 1600 50  0001 L BNN "STANDARD"
+F 10 "2.0" H 7200 1600 50  0001 L BNN "PARTREV"
+F 11 "https://www.snapeda.com/parts/LAUNCHXL-F28379D/Texas+Instruments/view-part/?ref=snap" H 7200 1600 50  0001 L BNN "SnapEDA_Link"
+F 12 "LAUNCHXL-F28379D" H 7200 1600 50  0001 L BNN "MP"
+F 13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=702349&manufacturer=Texas Instruments&part_name=LAUNCHXL-F28379D&search_term=None" H 7200 1600 50  0001 L BNN "Purchase-URL"
+F 14 "In Stock" H 7200 1600 50  0001 L BNN "Availability"
+F 15 "Texas Instruments" H 7200 1600 50  0001 L BNN "MANUFACTURER"
+	1    7200 1600
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,44 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 691213510002
+#
+DEF 691213510002 J 0 40 Y N 1 L N
+F0 "J" -192 -36 50 H V L BNN
+F1 "691213510002" -190 -102 50 H V L BNN
+F2 "691213510002" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F5 "14 to 30 (AWG) 2.08 to 0.0509 (mm²)" 0 0 50 H I L BNN "WIRE"
+F6 "\n2 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole\n" 0 0 50 H I L BNN "Description"
+F7 "None" 0 0 50 H I L BNN "Package"
+F8 "None" 0 0 50 H I L BNN "Price"
+F9 "14A" 0 0 50 H I L BNN "IR-VDE"
+F10 "14A" 0 0 50 H I L BNN "IR-UL"
+F11 "300V (AC)" 0 0 50 H I L BNN "WORKING-VOLTAGE-UL"
+F12 "2" 0 0 50 H I L BNN "PINS"
+F13 "Wurth Electronics" 0 0 50 H I L BNN "MF"
+F14 "691213510002" 0 0 50 H I L BNN "MP"
+F15 "5.08mm" 0 0 50 H I L BNN "PITCH"
+F16 "691213510002" 0 0 50 H I L BNN "PART-NUMBER"
+F17 "250V (AC)" 0 0 50 H I L BNN "WORKING-VOLTAGE-VDE"
+F18 "Horizontal" 0 0 50 H I L BNN "TYPE"
+F19 "In Stock" 0 0 50 H I L BNN "Availability"
+F20 "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+DRAW
+P 2 0 0 10 -150 0 50 0 N
+P 2 0 0 10 -100 -70 -100 -100 N
+P 2 0 0 10 0 -70 0 -100 N
+P 2 0 0 6 -90 -40 -110 -60 N
+P 2 0 0 6 10 -40 -10 -60 N
+C -100 -50 20 0 0 10 N
+C 0 -50 20 0 0 10 N
+S -150 -125 50 -25 0 0 10 f
+X ~ 1 -100 -200 100 U 40 40 0 0 P 
+X ~ 2 0 -200 100 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

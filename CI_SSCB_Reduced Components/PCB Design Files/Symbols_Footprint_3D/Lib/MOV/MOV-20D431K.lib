@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MOV-20D431K
+#/389566/823895/2.50/2/4/Varistor
+DEF MOV-20D431K RV 0 30 Y Y 1 F N
+F0 "RV" 550 250 50 H V L CNN
+F1 "MOV-20D431K" 550 150 50 H V L CNN
+F2 "MOV20D431K" 550 50 50 H I L CNN
+F3 "https://www.bourns.com/data/global/pdfs/MOV20D.pdf" 550 -50 50 H I L CNN
+F4 "Bourns MOV-20D Series Metal Oxide Varistor 930pF 100A 710V" 550 -150 50 H I L CNN "Description"
+F5 "26" 550 -250 50 H I L CNN "Height"
+F6 "Bourns" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "MOV-20D431K" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-MOV-20D431K" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/MOV-20D431K?qs=CQ3B1E%252BbPs2R73OUL4kc5g%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "MOV-20D431K" 550 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/mov-20d431k/bourns?region=nac" 550 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 150 -100 250 -100 450 100 550 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

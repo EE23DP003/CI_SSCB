@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 5000
+#
+DEF 5000 TP 0 40 N N 1 L N
+F0 "TP" -100 100 50 H V L BNN
+F1 "5000" -100 -150 50 H V L BNN
+F2 "KEYSTONE_5000" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Keystone Electronics" 0 0 50 H I L BNN "MF"
+F5 "PC Test Point - Miniature" 0 0 50 H I L BNN "DESCRIPTION"
+F6 "Test Point Keystone Electronics" 0 0 50 H I L BNN "PACKAGE"
+F7 "None" 0 0 50 H I L BNN "PRICE"
+F8 "Test Point Keystone Electronics" 0 0 50 H I L BNN "Package"
+F9 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F10 "None" 0 0 50 H I L BNN "Price"
+F11 "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "5000" 0 0 50 H I L BNN "MP"
+F13 "In Stock" 0 0 50 H I L BNN "Availability"
+F14 "In Stock" 0 0 50 H I L BNN "AVAILABILITY"
+F15 "\nTest Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000\n" 0 0 50 H I L BNN "Description"
+DRAW
+C 0 0 25 0 0 50 N
+X ~ TP -200 0 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LA55-P
+D TRANSDUCER CURRENT 50A HALL EFFECT,CLOSED LOOP
+K
+F https://www.lem.com/sites/default/files/products_datasheets/la_55-p_e.pdf
+$ENDCMP
+#
+#End Doc Library

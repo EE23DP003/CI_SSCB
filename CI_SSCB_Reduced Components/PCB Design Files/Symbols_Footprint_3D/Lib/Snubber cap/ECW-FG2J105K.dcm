@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECW-FG2J105K
+D 1F Film Capacitor 141V 630V Polypropylene (PP), Metallized Radial
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDL0000/RDL0000C245.pdf
+$ENDCMP
+#
+#End Doc Library

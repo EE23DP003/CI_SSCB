@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQP500JB-100R
+D Yageo 100 Through Hole Fixed Resistor 5W 5% SQP500JB-100R
+K
+F http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_SQP_NSP_2013.pdf
+$ENDCMP
+#
+#End Doc Library

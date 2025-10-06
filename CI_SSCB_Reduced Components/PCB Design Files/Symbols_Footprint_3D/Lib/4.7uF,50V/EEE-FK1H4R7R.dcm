@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEE-FK1H4R7R
+D Aluminum Electrolytic Capacitors - SMD 4.7uF 50V
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
+$ENDCMP
+#
+#End Doc Library

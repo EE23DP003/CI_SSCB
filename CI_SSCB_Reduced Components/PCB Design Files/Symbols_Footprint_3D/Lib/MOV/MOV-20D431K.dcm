@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MOV-20D431K
+D Bourns MOV-20D Series Metal Oxide Varistor 930pF 100A 710V
+K
+F https://www.bourns.com/data/global/pdfs/MOV20D.pdf
+$ENDCMP
+#
+#End Doc Library

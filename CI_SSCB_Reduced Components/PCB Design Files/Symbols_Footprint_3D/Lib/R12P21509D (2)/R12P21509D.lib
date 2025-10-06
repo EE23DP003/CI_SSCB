@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# R12P21509D
+#
+DEF R12P21509D PS 0 40 Y Y 1 L N
+F0 "PS" -400 340 50 H V L BNN
+F1 "R12P21509D" -400 -430 50 H V L BNN
+F2 "CONV_R12P21509D" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Recom Power" 0 0 50 H I L BNN "MF"
+F5 "12.5mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "SIP-7 Recom Power" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/R12P21509D/Recom+Power/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F10 "5" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/R12P21509D/Recom+Power/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "R12P21509D" 0 0 50 H I L BNN "MP"
+F13 "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=3646320&manufacturer=Recom Power&part_name=R12P21509D&search_term=None" 0 0 50 H I L BNN "Purchase-URL"
+F14 "\nDC-DC Converter,15V,0.067A,-9V,0.111A,10.8-13.2V In,Enclosed,PCB Mount,RxxP2 | RECOM Power Inc. R12P21509D\n" 0 0 50 H I L BNN "Description"
+F15 "In Stock" 0 0 50 H I L BNN "Availability"
+F16 "Recom" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -300 400 300 0 0 10 f
+X +VIN 1 -600 200 200 R 40 40 0 0 I 
+X +VOUT 7 600 200 200 L 40 40 0 0 O 
+X -VOUT 5 600 -200 200 L 40 40 0 0 O 
+X -VIN 2 -600 -200 200 R 40 40 0 0 I 
+X COM 6 600 0 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

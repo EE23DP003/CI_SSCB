@@ -1,0 +1,95 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6dfd2e36-9e55-416b-8a2b-26821539c53a")
+	(paper "A4")
+	(title_block
+		(comment 1 "2023")
+		(comment 2 "MS")
+		(comment 3 "Aditya.P")
+		(comment 4 "DCCB")
+	)
+	(lib_symbols)
+	(sheet
+		(at 93.98 50.8)
+		(size 41.91 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000065333553")
+		(property "Sheetname" "Sheet65333552"
+			(at 93.98 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "file65333552.kicad_sch"
+			(at 93.98 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DCCB PCB-V3"
+				(path "/6dfd2e36-9e55-416b-8a2b-26821539c53a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 50.8)
+		(size 50.8 34.29)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-00006535b7af")
+		(property "Sheetname" "Sheet6535B7AE"
+			(at 142.24 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "file6535B7AE.kicad_sch"
+			(at 142.24 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DCCB PCB-V3"
+				(path "/6dfd2e36-9e55-416b-8a2b-26821539c53a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

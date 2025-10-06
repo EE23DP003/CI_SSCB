@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B43547A9107M060
+D Snap-in Capacitors, 100?F/400VDC, 25mm dia x 25mm length
+K
+F https://product.tdk.com/system/files/dam/doc/product/capacitor/aluminum-electrolytic/snap-in/data_sheet/20/30/db/aec/b43547.pdf
+$ENDCMP
+#
+#End Doc Library
