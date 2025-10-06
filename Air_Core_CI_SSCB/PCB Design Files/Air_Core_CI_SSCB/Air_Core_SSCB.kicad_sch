@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "65058651-b983-42f6-bfcd-e0c090f493cd")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 49.3268 31.0896)
+		(size 19.0754 16.5608)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f448354e-0f82-42ba-abf9-7b13c5abfac0")
+		(property "Sheetname" "Main_circuit"
+			(at 49.3268 30.378 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Main_circuit.kicad_sch"
+			(at 49.3268 48.235 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

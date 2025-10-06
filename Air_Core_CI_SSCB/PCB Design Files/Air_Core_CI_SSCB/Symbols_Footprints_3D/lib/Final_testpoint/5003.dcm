@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5003
+D KEYSTONE - 5003 - TEST POINT, PCB, THROUGH HOLE
+K
+F https://componentsearchengine.com/Datasheets/1/5003.pdf
+$ENDCMP
+#
+#End Doc Library

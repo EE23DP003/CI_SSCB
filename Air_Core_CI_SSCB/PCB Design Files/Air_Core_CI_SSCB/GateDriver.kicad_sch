@@ -1,0 +1,7832 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bd97b257-ce26-47b9-891a-20e894441c66")
+	(paper "A4")
+	(lib_symbols
+		(symbol "691213510002:691213510002"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -4.8768 -0.9144 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "691213510002"
+				(at -4.826 -2.5908 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "691213510002"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "\\n2 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole\\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "WIRE" "14 to 30 (AWG) 2.08 to 0.0509 (mm²)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "IR-VDE" "14A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "IR-UL" "14A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "WORKING-VOLTAGE-UL" "300V (AC)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "PINS" "2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "MF" "Wurth Electronics"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "691213510002"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "PITCH" "5.08mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "PART-NUMBER" "691213510002"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "WORKING-VOLTAGE-VDE" "250V (AC)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "TYPE" "Horizontal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "691213510002_0_0"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -3.81 -3.175)
+					(end 1.27 -0.635)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -2.54 -1.27)
+					(radius 0.508)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -1.778) (xy -2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 -1.016) (xy -2.794 -1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -1.27)
+					(radius 0.508)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.778) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 -1.016) (xy -0.254 -1.524)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "C0603C104K3PACTU:C0603C104K3PACTU"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C0603C104K3PACTU"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "C0603"
+				(at 8.89 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+				(at 8.89 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "SMD Comm X5R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 5 % , 5 GOhms, 6.5 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 70"
+				(at 8.89 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.87"
+				(at 8.89 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Part Number" ""
+				(at 8.89 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Price/Stock" ""
+				(at 8.89 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "KEMET"
+				(at 8.89 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "C0603C104K3PACTU"
+				(at 8.89 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "C0603C104K3PACTU_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "C0603C104K3PACTU_0_1"
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 5.588 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 2.54) (xy 5.588 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 2.54) (xy 7.112 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.112 0) (xy 7.62 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Connector:Conn_01x06_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x06_Pin"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x06, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x06_Pin_1_1"
+				(rectangle
+					(start 0.8636 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0.8636 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0.8636 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 0.8636 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -7.62) (xy 0.8636 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "ED2132:1ED3122MU12HXUMA1"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1ED3122MU12HXUMA1"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "SOIC127P1030X265-8N"
+				(at 24.13 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?"
+				(at 24.13 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Gate Drivers ISOLATED DRIVER EiceDRIVER 1ED31xxMU12H Compact"
+				(at 24.13 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "2.65"
+				(at 24.13 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Infineon"
+				(at 24.13 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "1ED3122MU12HXUMA1"
+				(at 24.13 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "726-1ED3122MU12HXUMA"
+				(at 24.13 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1ED3122MU12HXUMA1?qs=GBLSl2AkirsZ5PhF1sGJcw%3D%3D"
+				(at 24.13 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" "1ED3122MU12HXUMA1"
+				(at 24.13 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1ed3122mu12hxuma1/infineon-technologies-ag"
+				(at 24.13 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "1ED3122MU12HXUMA1_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "VCC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "GND1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "VCC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "OUT+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -5.08 180)
+					(length 5.08)
+					(name "OUT-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -7.62 180)
+					(length 5.08)
+					(name "VEE2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "1ED3122MU12HXUMA1_0_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 22.86 2.54) (xy 22.86 -10.16) (xy 5.08 -10.16) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "EEE1HA4R7WAR:EEE1HA4R7WAR"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 8.89 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "EEE1HA4R7WAR"
+				(at 8.89 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "EEE1AA220WR"
+				(at 8.89 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+				(at 8.89 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+				(at 8.89 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "5.5"
+				(at 8.89 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Part Number" ""
+				(at 8.89 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Price/Stock" ""
+				(at 8.89 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Panasonic"
+				(at 8.89 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+				(at 8.89 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "EEE1HA4R7WAR_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "EEE1HA4R7WAR_0_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.064 1.778) (xy 4.064 0.762)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.572 1.27) (xy 3.556 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54) (xy 5.842 -2.54) (xy 5.842 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 7.62 -2.54) (xy 6.858 -2.54) (xy 6.858 2.54) (xy 7.62 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 0) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "R12P21503D:R12P21503D"
+			(pin_names
+				(offset 0.762)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "PS"
+				(at 21.59 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R12P21503D"
+				(at 21.59 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "R12P21503D"
+				(at 21.59 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf"
+				(at 21.59 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "DC/DC Converter Isolated +15/-3V 2W"
+				(at 21.59 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Height" "13"
+				(at 21.59 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Part Number" ""
+				(at 21.59 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "element14 Price/Stock" ""
+				(at 21.59 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "RECOM Power"
+				(at 21.59 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "R12P21503D"
+				(at 21.59 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R12P21503D_0_0"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "+VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "-VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "-VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "COM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "+VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "R12P21503D_0_1"
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 20.32 2.54) (xy 20.32 -12.7) (xy 5.08 -12.7) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 152.908 141.1732)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05c43ba6-fc7c-4be7-bbdd-d35e870327f9")
+	)
+	(junction
+		(at 142.2654 134.239)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06a9e1b0-45e7-423c-afac-68f68e135b4b")
+	)
+	(junction
+		(at 143.383 51.3842)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d81fb0f-6160-4025-9ca8-08c01ce0dd1c")
+	)
+	(junction
+		(at 141.8336 89.1032)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2623d473-f5ca-4d74-9f33-e6f04426289e")
+	)
+	(junction
+		(at 107.823 55.1942)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30afb75b-a4cf-440d-b9fe-79d193f38c5d")
+	)
+	(junction
+		(at 153.5684 186.7154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "34c0e995-f527-4154-8466-5f0eeadec5f9")
+	)
+	(junction
+		(at 109.9566 191.7192)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3f1ea3b1-be15-4ec7-bb72-fdc6ba09d80f")
+	)
+	(junction
+		(at 152.4762 96.0374)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a827ba7-7b48-4328-8525-776da6b31f40")
+	)
+	(junction
+		(at 144.8562 142.367)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5156cf1b-dc53-4027-b2a4-77a7f741a225")
+	)
+	(junction
+		(at 156.8958 53.6956)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56989815-e70f-4bed-afb6-5e35339ce9a3")
+	)
+	(junction
+		(at 108.8644 101.0412)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64f88cbb-6c55-440a-9d80-bc583d1edb1a")
+	)
+	(junction
+		(at 142.9258 179.7812)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68b66b27-22e4-4ce3-bfce-654cf36f3990")
+	)
+	(junction
+		(at 109.2962 146.177)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6c40ac5b-7762-4281-b340-8c241145dfc3")
+	)
+	(junction
+		(at 157.9372 99.5426)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6d0dbe10-5030-4943-a582-c5098b134105")
+	)
+	(junction
+		(at 144.4244 97.2312)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "770733b9-cf8b-4c6c-8afc-8e10341bc2bd")
+	)
+	(junction
+		(at 145.5166 187.9092)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "933cc505-24f8-42f3-83f3-55ca0f0881fc")
+	)
+	(junction
+		(at 152.4762 109.1946)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a42fdf7a-6d94-412e-8d80-9dfa11a11ac7")
+	)
+	(junction
+		(at 158.369 144.6784)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7dc01a0-2400-418d-ae69-a5b61aac556f")
+	)
+	(junction
+		(at 140.7922 41.148)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b3b5c5a6-f9be-404e-aef7-f765570d94ee")
+	)
+	(junction
+		(at 152.908 154.3304)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd96448b-14d2-4cdd-99ff-441175954c22")
+	)
+	(junction
+		(at 153.5684 199.8726)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6c8172a-11c0-47ce-9004-405ffdf40420")
+	)
+	(junction
+		(at 151.4348 50.1904)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3b5257a-be96-4c31-acbe-9dcb605d0c31")
+	)
+	(junction
+		(at 151.4348 63.3476)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d67aaa82-8ae4-4d1d-a88d-6c0facdf8060")
+	)
+	(junction
+		(at 159.0294 190.2206)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e172c666-5596-466b-ba80-9d689e9a2d0d")
+	)
+	(wire
+		(pts
+			(xy 108.8644 101.0412) (xy 108.8644 98.5012)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028e0764-fd91-4b19-afc4-063122b23ae3")
+	)
+	(wire
+		(pts
+			(xy 135.763 47.5742) (xy 135.763 43.2562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "034a07a0-b731-4515-a41a-139f6b0a1d36")
+	)
+	(wire
+		(pts
+			(xy 144.8562 142.367) (xy 165.5064 142.367)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05bc1453-63c2-427c-b3bf-da7c6eb4bd92")
+	)
+	(wire
+		(pts
+			(xy 160.655 109.1692) (xy 152.4762 109.1946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "090b8a4a-9428-49e1-909e-0f89e62c5145")
+	)
+	(wire
+		(pts
+			(xy 137.8966 191.7192) (xy 137.8966 196.5452)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dbd6c4f-38ff-47e5-9d73-a30ee724145b")
+	)
+	(wire
+		(pts
+			(xy 158.369 126.3142) (xy 158.369 144.6784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f1d9280-de9e-4b14-a4ac-b0e377e72826")
+	)
+	(wire
+		(pts
+			(xy 152.4762 81.4832) (xy 152.4762 82.7532)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fd4acbf-3b18-4ce8-a946-768592b318e9")
+	)
+	(wire
+		(pts
+			(xy 160.655 80.1878) (xy 160.655 109.1692)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10129124-cd07-4162-9839-99c83e6e2449")
+	)
+	(wire
+		(pts
+			(xy 40.1574 106.8832) (xy 39.4462 106.8832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "107941f8-5439-43d3-958a-c714da234b9c")
+	)
+	(wire
+		(pts
+			(xy 161.0868 125.3236) (xy 161.0868 154.305)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "109f5d35-9852-411b-a8df-ecb2666dd8d2")
+	)
+	(wire
+		(pts
+			(xy 161.7472 170.8658) (xy 161.7472 199.8472)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "109fc6e3-5384-4399-8d79-2010f02cb3b5")
+	)
+	(wire
+		(pts
+			(xy 124.8664 81.1784) (xy 157.9372 81.1784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "114954f4-a74e-4d79-8684-9ed06bd07af9")
+	)
+	(wire
+		(pts
+			(xy 123.825 33.3502) (xy 123.825 35.3314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "116b2bb8-a43c-4423-b89c-a690532df5ea")
+	)
+	(wire
+		(pts
+			(xy 152.4762 96.0374) (xy 152.4762 96.4946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "136e22f2-fdcf-4c36-ac73-1de221552d93")
+	)
+	(wire
+		(pts
+			(xy 145.7452 126.619) (xy 142.2654 134.239)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "140a25c9-59dc-4901-8518-7a9085ba7f0a")
+	)
+	(wire
+		(pts
+			(xy 153.5684 186.7154) (xy 153.5684 187.1726)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "143f16d3-6ddd-4c5f-b55a-f2bcecc201f8")
+	)
+	(wire
+		(pts
+			(xy 108.8898 103.6828) (xy 108.8644 101.0412)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16a0f204-4aaa-41b8-8ebb-dcb9e6667395")
+	)
+	(wire
+		(pts
+			(xy 153.924 50.1904) (xy 151.4348 50.1904)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16f23cd8-cffc-4b10-8fe2-f9a092bcfca0")
+	)
+	(wire
+		(pts
+			(xy 121.285 34.3662) (xy 159.6136 34.3408)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17110d90-6bd8-4d99-95d0-4e0a915fae25")
+	)
+	(wire
+		(pts
+			(xy 145.3134 81.4832) (xy 152.4762 81.4832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17cda718-0558-4adc-aaa0-24505388d3e6")
+	)
+	(wire
+		(pts
+			(xy 108.8898 103.6828) (xy 100.076 103.6574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c027ded-ce4d-4f4d-8842-1873e853cb93")
+	)
+	(wire
+		(pts
+			(xy 107.823 45.1358) (xy 107.823 47.5742)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c81e6bd-7cdd-45e5-a32d-6e6115bb53f8")
+	)
+	(wire
+		(pts
+			(xy 109.3216 148.8186) (xy 99.9236 148.7932)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cc26eed-e27a-4c5d-9646-9fbb883d6fbd")
+	)
+	(wire
+		(pts
+			(xy 107.8484 57.8358) (xy 107.823 55.1942)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f71d030-3b48-4775-8938-dc3d7fd43758")
+	)
+	(wire
+		(pts
+			(xy 123.4186 169.8752) (xy 123.4186 170.8912)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "228f1d80-ea8d-4467-966c-8fcaaa2bcf7a")
+	)
+	(wire
+		(pts
+			(xy 157.9372 81.1784) (xy 157.9372 99.5426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22c3124a-2734-4099-8dfb-7861231d7440")
+	)
+	(wire
+		(pts
+			(xy 144.272 35.6362) (xy 144.272 41.148)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2818d3ee-c831-4d99-b3af-e6fe2ac18cdd")
+	)
+	(wire
+		(pts
+			(xy 168.8084 184.7596) (xy 168.8084 190.2206)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29bf221f-e1a0-437b-b171-86faa1a7af58")
+	)
+	(wire
+		(pts
+			(xy 146.4056 172.1612) (xy 153.5684 172.1612)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f4ae398-257f-4216-a0d2-21ac79d94d17")
+	)
+	(wire
+		(pts
+			(xy 144.8562 141.097) (xy 144.8562 142.367)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31004ebd-bc3b-4ac6-899f-068d18e4c3ea")
+	)
+	(wire
+		(pts
+			(xy 156.0576 190.2206) (xy 156.0576 186.7154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3230e3b1-3f5d-4837-a63c-e4a9d7952fea")
+	)
+	(wire
+		(pts
+			(xy 109.3216 148.8186) (xy 109.2962 146.177)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "329cf577-40fe-4791-9761-1c95abebac85")
+	)
+	(wire
+		(pts
+			(xy 141.8336 85.3694) (xy 141.8336 89.1032)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34c591b8-1975-4eae-84cc-4097600abe63")
+	)
+	(wire
+		(pts
+			(xy 109.9566 181.6608) (xy 109.9566 184.0992)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "388c1c3d-4bf3-41ed-91b9-ea690c32f4a0")
+	)
+	(wire
+		(pts
+			(xy 122.7582 124.333) (xy 122.7582 125.349)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c4c6d65-d7e8-4a80-8784-faf076ffd551")
+	)
+	(wire
+		(pts
+			(xy 125.9586 171.8564) (xy 159.0294 171.8564)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f012a4e-40b6-41e9-8eac-b8c0ceb2b771")
+	)
+	(wire
+		(pts
+			(xy 109.2962 136.1186) (xy 109.2962 138.557)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f1cf9a6-f2d2-4292-a26c-a42fa90816be")
+	)
+	(wire
+		(pts
+			(xy 108.8644 90.9828) (xy 100.076 90.9574)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42cca50b-9780-4cc7-ae79-f0162bd814fc")
+	)
+	(wire
+		(pts
+			(xy 125.9586 169.8752) (xy 125.9586 171.8564)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "432d94fc-51aa-44d0-a3df-8cfeaad92a23")
+	)
+	(wire
+		(pts
+			(xy 107.823 45.1358) (xy 97.8916 45.1358)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4332ad03-5f24-41b3-af2f-d03ee68533fe")
+	)
+	(wire
+		(pts
+			(xy 165.0746 94.0816) (xy 165.0746 97.2312)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437d8e44-f001-4639-b951-e620775df43c")
+	)
+	(wire
+		(pts
+			(xy 137.2362 134.239) (xy 142.2654 134.239)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "440fdebb-f18e-4f3e-b75a-6281b2f7090e")
+	)
+	(wire
+		(pts
+			(xy 137.8966 184.0992) (xy 137.8966 179.7812)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "443a623e-f6cc-40ac-83ce-98f29d947352")
+	)
+	(wire
+		(pts
+			(xy 145.5166 186.6392) (xy 145.5166 187.9092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "445d8d12-784c-48f0-88f5-5ceb9cf35039")
+	)
+	(wire
+		(pts
+			(xy 147.0152 63.3476) (xy 151.4348 63.3476)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b24a89-b960-4761-aaac-8084f0009f5c")
+	)
+	(wire
+		(pts
+			(xy 164.0332 48.2346) (xy 164.0078 48.2346)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47577b06-a6bc-4e4f-96a7-a459f787c91a")
+	)
+	(wire
+		(pts
+			(xy 149.1488 199.8726) (xy 153.5684 199.8726)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48d05234-4d50-464e-9e26-bbdbc842556e")
+	)
+	(wire
+		(pts
+			(xy 152.908 141.1732) (xy 152.908 141.6304)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bd78d8a-0088-4265-8bb4-e987812c2538")
+	)
+	(wire
+		(pts
+			(xy 144.272 35.6362) (xy 151.4348 35.6362)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bd7b2cf-31e4-4167-abb6-2033be7c422c")
+	)
+	(wire
+		(pts
+			(xy 161.7472 199.8472) (xy 153.5684 199.8726)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4be6fc66-3eea-4431-9dc7-3daa17d89401")
+	)
+	(wire
+		(pts
+			(xy 121.285 33.3502) (xy 121.285 34.3662)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d2ab3e4-bfc1-4ba3-8535-7f65d53f40fd")
+	)
+	(wire
+		(pts
+			(xy 125.2982 126.3142) (xy 158.369 126.3142)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "502b6d06-30ca-4ece-824f-1d9e3a619d8a")
+	)
+	(wire
+		(pts
+			(xy 155.3972 144.6784) (xy 155.3972 141.1732)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509c18ca-3e4f-4c1a-acd9-65ca64399ff4")
+	)
+	(wire
+		(pts
+			(xy 135.763 43.2562) (xy 140.7922 43.2562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "525d9998-08bd-430c-a649-b4a8683150ab")
+	)
+	(wire
+		(pts
+			(xy 127.8382 124.333) (xy 127.8382 130.5052)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "540598f9-684c-4198-a288-18b6dfdc5165")
+	)
+	(wire
+		(pts
+			(xy 168.148 144.6784) (xy 158.369 144.6784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54c07751-b021-42a5-9eb1-fe3b2bd17943")
+	)
+	(wire
+		(pts
+			(xy 109.9566 181.6608) (xy 100.203 181.5846)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54fd2281-36e9-489b-85da-fcd2c96a25eb")
+	)
+	(wire
+		(pts
+			(xy 140.7922 41.148) (xy 140.7922 43.2562)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55657c09-3e1e-4004-bd17-c7b5c6f6543c")
+	)
+	(wire
+		(pts
+			(xy 137.8966 196.5452) (xy 149.1488 196.5452)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55dc2c2d-be32-4597-a4f3-9fe7b604640a")
+	)
+	(wire
+		(pts
+			(xy 165.5064 139.2174) (xy 165.5064 142.367)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "561eab65-f6ba-4a7f-be48-bd7f1b5939f0")
+	)
+	(wire
+		(pts
+			(xy 156.0576 186.7154) (xy 153.5684 186.7154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "562c3046-dc60-47b2-9e8d-0852671d28ba")
+	)
+	(wire
+		(pts
+			(xy 143.383 51.3842) (xy 164.0332 51.3842)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5827d4ed-decd-43fb-87ac-9be8ae17d481")
+	)
+	(wire
+		(pts
+			(xy 155.3972 141.1732) (xy 152.908 141.1732)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5996b15e-4e60-4f66-8e8b-0ee897006013")
+	)
+	(wire
+		(pts
+			(xy 168.8084 190.2206) (xy 159.0294 190.2206)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59b2bbaf-19ff-4473-a477-3fffaf03ad74")
+	)
+	(wire
+		(pts
+			(xy 127.8382 130.5052) (xy 142.2654 130.5052)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59b93c23-b883-4507-8ba6-18a40bd72ce3")
+	)
+	(wire
+		(pts
+			(xy 148.4884 154.3304) (xy 152.908 154.3304)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c06ce6b-d09a-41fa-a8bd-19dc8c0226dd")
+	)
+	(wire
+		(pts
+			(xy 152.908 126.619) (xy 152.908 127.889)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca3db9e-ffd6-4148-bff3-76a2b15e0d3c")
+	)
+	(wire
+		(pts
+			(xy 151.4348 50.1904) (xy 151.4348 50.6476)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ddf2221-ef1e-44a0-b91d-d67bb7a5bf06")
+	)
+	(wire
+		(pts
+			(xy 126.365 33.3502) (xy 126.365 39.5224)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ebcbf2e-bad8-4143-9fbb-c61e57502879")
+	)
+	(wire
+		(pts
+			(xy 40.2082 106.8578) (xy 40.1574 106.8832)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f401ba1-ac41-414a-85bb-f6c5425fd50f")
+	)
+	(wire
+		(pts
+			(xy 125.2982 124.333) (xy 125.2982 126.3142)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6153fb21-be59-4ca0-9cbf-99d92a489068")
+	)
+	(wire
+		(pts
+			(xy 148.0566 105.8672) (xy 148.0566 109.1946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628912e6-2294-4ed5-baf4-69b98220b396")
+	)
+	(wire
+		(pts
+			(xy 144.4244 97.2312) (xy 144.4244 98.5012)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65817e92-884d-4de0-9c91-cd0202a85366")
+	)
+	(wire
+		(pts
+			(xy 39.9542 109.4232) (xy 39.4462 109.4232)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65ae940b-6359-4842-a1c0-c5ac4b5be4fb")
+	)
+	(wire
+		(pts
+			(xy 159.0294 190.2206) (xy 156.0576 190.2206)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6744bb39-acff-40db-b59b-cd9073caacf9")
+	)
+	(wire
+		(pts
+			(xy 40.005 109.3978) (xy 39.9542 109.4232)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67d419dc-3d6c-42b5-9bc7-bb3580c2191c")
+	)
+	(wire
+		(pts
+			(xy 156.8958 35.3314) (xy 156.8958 53.6956)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69de1298-bca6-4ce1-9877-f50257a415fa")
+	)
+	(wire
+		(pts
+			(xy 166.6748 48.2346) (xy 166.6748 53.6956)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e02b3e2-3efa-4c27-8914-4ccc229bfe1e")
+	)
+	(wire
+		(pts
+			(xy 109.982 194.3608) (xy 109.9566 191.7192)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e0be1e3-7380-4f3c-8507-27e5d4137a19")
+	)
+	(wire
+		(pts
+			(xy 109.9566 191.7192) (xy 109.9566 189.1792)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7130361b-00bc-4c33-b061-02866612b1fb")
+	)
+	(wire
+		(pts
+			(xy 153.924 53.6956) (xy 153.924 50.1904)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74b0e4c3-b3e8-4e4e-bf28-992efa119c65")
+	)
+	(wire
+		(pts
+			(xy 124.8664 79.1972) (xy 124.8664 81.1784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7614aa51-6d50-4a46-893a-9cc7d06b6b05")
+	)
+	(wire
+		(pts
+			(xy 147.0152 60.0202) (xy 147.0152 63.3476)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ecd1c5d-cfbb-45b2-b384-32ef236459b8")
+	)
+	(wire
+		(pts
+			(xy 156.8958 53.6956) (xy 153.924 53.6956)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "859a0b7d-12b2-478f-aaea-80b56c9a78b6")
+	)
+	(wire
+		(pts
+			(xy 159.0294 171.8564) (xy 159.0294 190.2206)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cc42c99-c7c0-4fed-aa96-549b2af769dc")
+	)
+	(wire
+		(pts
+			(xy 143.383 51.3842) (xy 143.383 52.6542)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f53fb8b-3241-4d0e-9f32-361e7a93a2c7")
+	)
+	(wire
+		(pts
+			(xy 151.4348 35.6362) (xy 151.4348 36.9062)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "910fe144-e798-4668-ba1f-4ea5e932331a")
+	)
+	(wire
+		(pts
+			(xy 107.823 55.1942) (xy 107.823 52.6542)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "937509aa-5516-4382-be83-97764119686a")
+	)
+	(wire
+		(pts
+			(xy 41.7322 109.3978) (xy 40.005 109.3978)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9401bc28-bd6a-4655-9bd1-853d3ef0ff5c")
+	)
+	(wire
+		(pts
+			(xy 152.4762 95.4532) (xy 152.4762 96.0374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9642c665-7efa-4fa6-a219-601e426cead0")
+	)
+	(wire
+		(pts
+			(xy 144.8562 142.367) (xy 144.8562 143.637)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96544a4d-140e-4fec-b27a-4ea6d500464c")
+	)
+	(wire
+		(pts
+			(xy 142.2654 130.5052) (xy 142.2654 134.239)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96f5caff-f2a0-458a-8f33-c89ad892b778")
+	)
+	(wire
+		(pts
+			(xy 122.3264 79.1972) (xy 122.3264 80.2132)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97dfb227-03bf-4cca-8277-2bcafa65c783")
+	)
+	(wire
+		(pts
+			(xy 159.6136 34.3408) (xy 159.6136 63.3222)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "980ad7e1-8714-4b93-8610-30939e32fd2c")
+	)
+	(wire
+		(pts
+			(xy 148.4884 151.003) (xy 148.4884 154.3304)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9913216e-a41a-43c2-a9b1-d79f07b734e1")
+	)
+	(wire
+		(pts
+			(xy 166.6748 53.6956) (xy 156.8958 53.6956)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99b0d9be-cfde-47d3-a5f4-3beec27710ea")
+	)
+	(wire
+		(pts
+			(xy 151.4348 49.6062) (xy 151.4348 50.1904)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9da5fcb2-247e-4675-9119-93cdc11451a4")
+	)
+	(wire
+		(pts
+			(xy 167.7162 94.0816) (xy 167.7162 99.5426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e4eb35e-9651-4577-b195-55bcdd3f9661")
+	)
+	(wire
+		(pts
+			(xy 144.4244 95.9612) (xy 144.4244 97.2312)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e93b727-8ff4-4e13-b005-63c23ba2c641")
+	)
+	(wire
+		(pts
+			(xy 153.5684 172.1612) (xy 153.5684 173.4312)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ecf2092-4526-4d72-826e-78da38d6e94d")
+	)
+	(wire
+		(pts
+			(xy 136.8044 101.0412) (xy 136.8044 105.8672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eeeaab2-c0b2-4717-97f1-526a3715a025")
+	)
+	(wire
+		(pts
+			(xy 154.9654 99.5426) (xy 154.9654 96.0374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6d0ea30-43c2-432e-be67-e80fd477f427")
+	)
+	(wire
+		(pts
+			(xy 153.5684 186.1312) (xy 153.5684 186.7154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8923e81-2c7c-47ab-a9f4-60d9d5106d93")
+	)
+	(wire
+		(pts
+			(xy 144.272 41.148) (xy 140.7922 41.148)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac7ec662-3e9a-4f5e-84bc-49b93de4acd8")
+	)
+	(wire
+		(pts
+			(xy 148.0566 109.1946) (xy 152.4762 109.1946)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae300c31-053d-45c2-90fc-8205a28f5ec2")
+	)
+	(wire
+		(pts
+			(xy 137.2362 146.177) (xy 137.2362 151.003)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae3ebb4f-561a-4168-b2e4-06e9a6131eb8")
+	)
+	(wire
+		(pts
+			(xy 142.9258 176.0474) (xy 142.9258 179.7812)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aed03e6d-16d5-435b-949d-907f34289476")
+	)
+	(wire
+		(pts
+			(xy 145.7452 126.619) (xy 152.908 126.619)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3286c2d-5ba2-4c97-a7bf-3eed1dfc1ab0")
+	)
+	(wire
+		(pts
+			(xy 135.763 60.0202) (xy 147.0152 60.0202)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b397c7ca-dc48-43b8-82f8-1f4ceb343d7e")
+	)
+	(wire
+		(pts
+			(xy 161.0868 154.305) (xy 152.908 154.3304)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b70a4f29-1dcb-48f7-9777-f80020fe1fe8")
+	)
+	(wire
+		(pts
+			(xy 127.4064 85.3694) (xy 141.8336 85.3694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7d59200-8b59-4aa4-bac1-5804c55996a3")
+	)
+	(wire
+		(pts
+			(xy 126.365 39.5224) (xy 140.7922 39.5224)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b943c942-426c-4420-a214-ef56a66df914")
+	)
+	(wire
+		(pts
+			(xy 149.1488 196.5452) (xy 149.1488 199.8726)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b97b7a27-cd19-411b-9d85-448fff37df6b")
+	)
+	(wire
+		(pts
+			(xy 146.4056 172.1612) (xy 142.9258 179.7812)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb389070-599d-4f6b-9cf4-e706a93e0735")
+	)
+	(wire
+		(pts
+			(xy 109.2962 146.177) (xy 109.2962 143.637)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb5e5edd-2811-4e03-84b3-6c2d3bbf117a")
+	)
+	(wire
+		(pts
+			(xy 145.5166 187.9092) (xy 145.5166 189.1792)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc52d22b-6d1c-4c60-bb56-daa26704981f")
+	)
+	(wire
+		(pts
+			(xy 154.9654 96.0374) (xy 152.4762 96.0374)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf37adde-5959-4911-b101-4df90f1257d1")
+	)
+	(wire
+		(pts
+			(xy 157.9372 99.5426) (xy 154.9654 99.5426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfd01c5f-0971-4bbd-97f3-9206837cc90c")
+	)
+	(wire
+		(pts
+			(xy 41.7576 106.8578) (xy 40.2082 106.8578)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7828362-edf4-4278-9d71-5ffcdb7bf8af")
+	)
+	(wire
+		(pts
+			(xy 108.8644 90.9828) (xy 108.8644 93.4212)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caa55e50-fa0b-4f23-ae86-c8e93b90a249")
+	)
+	(wire
+		(pts
+			(xy 128.4986 176.0474) (xy 142.9258 176.0474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cafb0ccc-aa1f-4327-ac81-07200ef0833d")
+	)
+	(wire
+		(pts
+			(xy 158.369 144.6784) (xy 155.3972 144.6784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d01f9457-826f-406a-8756-44c7650beaf1")
+	)
+	(wire
+		(pts
+			(xy 122.3264 80.2132) (xy 160.655 80.1878)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d29a6623-c1b6-42a1-8fe0-bd875186e3f3")
+	)
+	(wire
+		(pts
+			(xy 137.2362 151.003) (xy 148.4884 151.003)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3015b17-e18f-4d9e-8056-6d3121f5f06d")
+	)
+	(wire
+		(pts
+			(xy 144.4244 97.2312) (xy 165.0746 97.2312)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d91809d6-d4a8-437a-8e5c-11258be837fd")
+	)
+	(wire
+		(pts
+			(xy 137.8966 179.7812) (xy 142.9258 179.7812)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9e61d5f-5452-4cc2-ab0c-6e0f5a16658f")
+	)
+	(wire
+		(pts
+			(xy 109.2962 136.1186) (xy 99.9236 136.0932)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da0cdc93-ba7a-4988-9f72-8c099c2b02c6")
+	)
+	(wire
+		(pts
+			(xy 128.4986 169.8752) (xy 128.4986 176.0474)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da46d8ad-9c20-4310-9272-44da6defcddb")
+	)
+	(wire
+		(pts
+			(xy 145.3134 81.4832) (xy 141.8336 89.1032)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db880db1-dd2a-4e84-b138-9d73f9de6c43")
+	)
+	(wire
+		(pts
+			(xy 167.7162 99.5426) (xy 157.9372 99.5426)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcd4345d-c539-45a5-bbdb-f100bc47dfa9")
+	)
+	(wire
+		(pts
+			(xy 135.763 55.1942) (xy 135.763 60.0202)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd308a19-54f9-4cfd-b214-3a522336efd9")
+	)
+	(wire
+		(pts
+			(xy 136.8044 105.8672) (xy 148.0566 105.8672)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e157efbb-68d9-4539-8f7a-47b91ac251e5")
+	)
+	(wire
+		(pts
+			(xy 136.8044 93.4212) (xy 136.8044 89.1032)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2ea65e7-450e-4f0e-b392-2b98c78fc457")
+	)
+	(wire
+		(pts
+			(xy 143.383 50.1142) (xy 143.383 51.3842)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4c32cd1-ab9c-4e58-a35b-716f874c66ed")
+	)
+	(wire
+		(pts
+			(xy 140.7922 39.5224) (xy 140.7922 41.148)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e75362f0-5bf7-46bb-a875-837f06da878d")
+	)
+	(wire
+		(pts
+			(xy 123.4186 170.8912) (xy 161.7472 170.8658)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f549c2-85e3-4323-9eea-c4d7e82ecb69")
+	)
+	(wire
+		(pts
+			(xy 136.8044 89.1032) (xy 141.8336 89.1032)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea7a69ad-537f-4337-84cf-174e15a99c01")
+	)
+	(wire
+		(pts
+			(xy 152.908 140.589) (xy 152.908 141.1732)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec64abfd-15e6-419a-ba36-a18adb999db4")
+	)
+	(wire
+		(pts
+			(xy 166.1668 184.7596) (xy 166.1668 187.9092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec807947-9fda-465d-8887-00fc15acf1d2")
+	)
+	(wire
+		(pts
+			(xy 123.825 35.3314) (xy 156.8958 35.3314)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed228446-076f-4a3c-b650-b40de7a971c2")
+	)
+	(wire
+		(pts
+			(xy 122.7582 125.349) (xy 161.0868 125.3236)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee9ff546-b91b-43f5-be18-9c456959afc2")
+	)
+	(wire
+		(pts
+			(xy 137.2362 138.557) (xy 137.2362 134.239)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef3c596a-5d5b-471a-b7bf-ed2696c8b75f")
+	)
+	(wire
+		(pts
+			(xy 164.0332 48.2346) (xy 164.0332 51.3842)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f50ac42b-0ce8-4803-86fc-5e57d783f826")
+	)
+	(wire
+		(pts
+			(xy 109.982 194.3608) (xy 100.203 194.2846)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5d18967-d403-4f83-9478-2b96d791c3d9")
+	)
+	(wire
+		(pts
+			(xy 159.6136 63.3222) (xy 151.4348 63.3476)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa02ea0e-5fe1-46ad-ab8d-d40c08e3c318")
+	)
+	(wire
+		(pts
+			(xy 107.8484 57.8358) (xy 97.8916 57.8358)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fafe9350-3da2-42af-9066-4d345730da4e")
+	)
+	(wire
+		(pts
+			(xy 168.148 139.2174) (xy 168.148 144.6784)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff0170a4-46dd-48ed-b661-09914efdb298")
+	)
+	(wire
+		(pts
+			(xy 127.4064 79.1972) (xy 127.4064 85.3694)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff47ebbd-66e8-40f3-9cb2-5b7851d64491")
+	)
+	(wire
+		(pts
+			(xy 145.5166 187.9092) (xy 166.1668 187.9092)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffc79726-f0f9-4dcc-9cd5-b5bae3b74247")
+	)
+	(global_label "+5"
+		(shape input)
+		(at 38.6334 128.3462 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "01c2cc07-d4cf-4231-91dc-bc61535c9fb4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.3211 128.3462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Ts5"
+		(shape input)
+		(at 168.148 139.2174 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "03725d62-2cab-4eaf-bc6d-78714ad9df10")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.148 133.1064 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V-"
+		(shape input)
+		(at 118.745 33.3502 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "07ce19cf-4e50-40c1-9a18-01adc974d336")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.745 41.336 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Ts3"
+		(shape output)
+		(at 166.6748 48.2346 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0f39b788-46f7-4a20-9854-bcf11fcce46a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.6748 42.1236 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN3+"
+		(shape input)
+		(at 109.2962 141.097 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "14d73cf7-7fb2-49a1-b4ab-8e663e4389c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6732 141.097 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 100.076 103.6574 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e85edfa-3fc8-42cd-a08b-21a54bc359a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.8721 103.6574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Ts4"
+		(shape input)
+		(at 167.7162 94.0816 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1fc02150-465c-4444-89bd-1657eb7ac117")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 167.7162 87.9706 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V-"
+		(shape input)
+		(at 120.2182 124.333 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "20e42580-52b6-4f4b-8cca-7f2d29ff3f92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.2182 132.3188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5"
+		(shape input)
+		(at 97.8916 45.1358 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "21903c97-7c76-4a6d-80bf-cb0dbf2f8bb6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.2039 45.1358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Tg5"
+		(shape input)
+		(at 165.5064 139.2174 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "367a446d-0645-40a2-b8ad-c65e82a8e73d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.5064 132.9855 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Ts6"
+		(shape input)
+		(at 168.8084 184.7596 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "477d478c-4e89-44d0-988a-fc7462c6105a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.8084 178.6486 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN1+"
+		(shape input)
+		(at 38.6334 133.4262 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49e2af8c-3bd9-4aed-87f3-522f0de2f1bf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.2564 133.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN4+"
+		(shape input)
+		(at 109.9566 186.6392 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d4a6dab-b56e-4991-8550-940f2ef8fe62")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.3336 186.6392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12Vin"
+		(shape input)
+		(at 117.2464 79.1972 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6108c9dc-00ee-4530-b59e-5aca5ec4ab27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.0792 79.1972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN2+"
+		(shape input)
+		(at 38.6334 135.9662 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a053ab7-8cd5-4d39-b4ff-13c717cdf179")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.2564 135.9662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12Vin"
+		(shape input)
+		(at 41.7576 106.8578 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "71c17c5d-13b8-4d57-9b7f-b7e4f3c36d7e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.9248 106.8578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 100.203 194.2846 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "823c3bf6-8f05-4a4d-8101-b121b0985972")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.9991 194.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V-"
+		(shape input)
+		(at 120.8786 169.8752 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "83d889bb-d679-49af-9bf7-5dfe87d89689")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.8786 177.861 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN1+"
+		(shape input)
+		(at 107.823 50.1142 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "88f9eef0-f5f9-49a7-928c-0392a6f4c7e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.2 50.1142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN2+"
+		(shape input)
+		(at 108.8644 95.9612 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89b272c3-777f-4889-a330-85fcaebd9adc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.2414 95.9612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12Vin"
+		(shape input)
+		(at 116.205 33.3502 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9344ec01-dddc-42dc-ac5a-0f9f44b3a6af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.0378 33.3502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Tg3"
+		(shape output)
+		(at 164.0078 48.2346 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9548deee-d9db-4711-98a2-5ac06bd2bd98")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.0078 42.0027 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5"
+		(shape input)
+		(at 100.203 181.5846 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "97a32bdf-f51e-4c89-86dc-49a074975744")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.5153 181.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V-"
+		(shape input)
+		(at 119.7864 79.1972 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a3ecc9cd-fb9b-4f75-ab9b-140af42485d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 119.7864 87.183 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V-"
+		(shape input)
+		(at 41.7322 109.3978 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a813cd84-dcc5-4a61-9ef3-9cbf2424c65d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.718 109.3978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN3+"
+		(shape input)
+		(at 38.6334 138.5062 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "adfddda2-5e0e-4d16-96f5-ae8fe459533f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.2564 138.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12Vin"
+		(shape input)
+		(at 117.6782 124.333 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c801c0b2-7dce-4f9a-a942-d9ca6627a65a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.511 124.333 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12Vin"
+		(shape input)
+		(at 118.3386 169.8752 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8b936f3-2597-4aef-ac3b-0c9eec9ce0a4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 110.1714 169.8752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 38.6334 130.8862 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d59d12be-6324-459b-be4f-f96be0de37c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.8373 130.8862 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 99.9236 148.7932 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ddff78ad-27c8-4fa1-8933-32de7bb01e16")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.7197 148.7932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "0V"
+		(shape input)
+		(at 97.8916 57.8358 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "de4d1cdd-5286-41b6-8264-f04a8ed47c9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.6877 57.8358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Tg6"
+		(shape input)
+		(at 166.1668 184.7596 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e52585ee-f2f1-4aa7-ab84-ab7aa4991229")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 166.1668 178.5277 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IN4+"
+		(shape input)
+		(at 38.6334 141.0462 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eee22280-93bc-40e0-8666-c75ba3caae7d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.2564 141.0462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5"
+		(shape input)
+		(at 100.076 90.9574 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f2d8538c-16d8-4384-b46c-d79fb3ed6161")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.3883 90.9574 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5"
+		(shape input)
+		(at 99.9236 136.0932 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f569c315-9b0d-437f-a038-16ff6d1f5b92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.2359 136.0932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Tg4"
+		(shape input)
+		(at 165.0746 94.0816 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f980b7ec-8405-4162-b199-054f759dae23")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.0746 87.8497 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 152.4762 96.4946 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07d27db6-d9b6-4047-b698-0806bafe0f4c")
+		(property "Reference" "C?"
+			(at 156.9212 101.5746 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 156.9212 104.1146 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 153.7462 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 151.2062 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 148.6662 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 146.1262 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 143.5862 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 141.0462 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 138.5062 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 135.9662 105.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2d7a9bb-7a95-4107-a8ac-f561031ebf7b")
+		)
+		(pin "2"
+			(uuid "3bb00941-b341-4caf-8e6a-a55b53f4eb89")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 141.7066 189.1792 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b7995ee-933a-488a-804f-a5569bf0ff37")
+		(property "Reference" "R?"
+			(at 141.7066 183.8452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 141.7066 186.3852 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_3R3:ERJUP3"
+			(at 141.7066 190.9572 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 141.7066 189.1792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 141.7066 189.1792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "09f0d970-44d0-400a-b0f5-c5f7bfbdc54c")
+		)
+		(pin "2"
+			(uuid "afb3c407-f3d5-46b5-8a0c-9c00fe82b06a")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 139.573 50.1142 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "146689a2-52fb-449f-aa51-cd8ab60d5c34")
+		(property "Reference" "R?"
+			(at 139.573 44.7802 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 139.573 47.3202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor(10ohms):RCS0603_E3"
+			(at 139.573 51.8922 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.573 50.1142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 139.573 50.1142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8d0bd790-748b-4dd6-a3da-2c202c302d35")
+		)
+		(pin "2"
+			(uuid "9e8c1c6e-2803-41ca-9d88-689bc5cb22ae")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 152.908 141.6304 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16f82c86-b1ef-4c7a-b327-78116eb906b4")
+		(property "Reference" "C?"
+			(at 157.353 146.7104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 157.353 149.2504 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 154.178 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 151.638 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 149.098 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 146.558 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 144.018 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 141.478 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 138.938 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 136.398 150.5204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2a77c53-2f74-4d66-aed1-55dc7bd068cf")
+		)
+		(pin "2"
+			(uuid "63b5499c-3809-4872-bf75-326c2a299ee4")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 139.573 52.6542 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e4a785c-e537-4b2d-a398-bb20fba57c4b")
+		(property "Reference" "R?"
+			(at 139.573 47.3202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 139.573 49.8602 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_3R3:ERJUP3"
+			(at 139.573 54.4322 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.573 52.6542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 139.573 52.6542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6fc03b6d-ab00-4f14-ac1f-7bd9108fb90b")
+		)
+		(pin "2"
+			(uuid "fa05fa25-e849-470a-a87f-60b5f18c0e7f")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "R12P21503D:R12P21503D")
+		(at 118.3386 169.8752 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45dd580c-7148-4ae4-88b2-3381b1a9b66b")
+		(property "Reference" "PS?"
+			(at 132.0292 155.9052 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R12P21503D"
+			(at 132.0292 158.4452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Power Supply_Gate Driver:R12P21503D"
+			(at 115.7986 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf"
+			(at 118.3386 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC/DC Converter Isolated +15/-3V 2W"
+			(at 120.8786 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "13"
+			(at 123.4186 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 125.9586 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 128.4986 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "RECOM Power"
+			(at 131.0386 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "R12P21503D"
+			(at 133.5786 148.2852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "aff86e5b-a617-4aa3-a882-10d426855662")
+		)
+		(pin "2"
+			(uuid "2afea1c9-b44a-490b-aaf6-126d707cfa0b")
+		)
+		(pin "5"
+			(uuid "0ae9155e-299f-44e9-bb46-62cbb546b308")
+		)
+		(pin "6"
+			(uuid "c72f1884-a992-4b00-b694-392bb1e10f44")
+		)
+		(pin "7"
+			(uuid "bebaf8fc-8efb-40cd-8852-dc9612c2cff3")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "PS3")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "PS?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 141.0462 143.637 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4aa3135b-8a75-49d2-acc5-bb5c0cc4b37c")
+		(property "Reference" "R?"
+			(at 141.0462 138.303 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 141.0462 140.843 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_3R3:ERJUP3"
+			(at 141.0462 145.415 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 141.0462 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 141.0462 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f64a41a3-eed2-4755-8cd1-09b7357a17ae")
+		)
+		(pin "2"
+			(uuid "a0aed1a9-8a01-499a-a770-926ebc5736b6")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C0603C104K3PACTU:C0603C104K3PACTU")
+		(at 97.8916 57.8358 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4fa7743d-e5d5-4e45-af41-1e69d29ef70a")
+		(property "Reference" "C?"
+			(at 101.6 50.2158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "C0603C104K3PACTU"
+			(at 101.6 52.7558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD_film(0.1uF):C0603"
+			(at 96.6216 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 99.1616 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 5 % , 5 GOhms, 6.5 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 70"
+			(at 101.7016 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.87"
+			(at 104.2416 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 106.7816 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 109.3216 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 111.8616 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0603C104K3PACTU"
+			(at 114.4016 48.9458 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "422c6290-3de2-4451-9eb5-270449525bec")
+		)
+		(pin "2"
+			(uuid "eedc1a38-351d-4de4-91db-f5c5c7fb210c")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 141.7066 186.6392 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61b160df-7869-4957-bfbe-1e47bebe5a50")
+		(property "Reference" "R?"
+			(at 141.7066 181.3052 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 141.7066 183.8452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor(10ohms):RCS0603_E3"
+			(at 141.7066 188.4172 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 141.7066 186.6392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 141.7066 186.6392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3f47ac32-1e86-4585-8eda-1bd3bc327b8c")
+		)
+		(pin "2"
+			(uuid "ff9fdac9-3322-46e5-95ad-2dbd8a13d9c3")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C0603C104K3PACTU:C0603C104K3PACTU")
+		(at 100.076 103.6574 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "64c5e3fc-5a9c-4cdd-97c1-d0c67b9614b7")
+		(property "Reference" "C?"
+			(at 103.0478 96.0374 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "C0603C104K3PACTU"
+			(at 103.7844 98.5774 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD_film(0.1uF):C0603"
+			(at 98.806 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 101.346 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 5 % , 5 GOhms, 6.5 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 70"
+			(at 103.886 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.87"
+			(at 106.426 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 108.966 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 111.506 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 114.046 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0603C104K3PACTU"
+			(at 116.586 94.7674 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e2020cc0-8b60-4e47-9e3b-d1b0c4f357c9")
+		)
+		(pin "2"
+			(uuid "8bbbf93d-8416-4a21-a039-da26b209b1e1")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "R12P21503D:R12P21503D")
+		(at 116.205 33.3502 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71f99fa1-84f4-407e-93e3-a89b6df69af5")
+		(property "Reference" "PS?"
+			(at 129.8956 19.3802 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R12P21503D"
+			(at 129.8956 21.9202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Power Supply_Gate Driver:R12P21503D"
+			(at 113.665 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf"
+			(at 116.205 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC/DC Converter Isolated +15/-3V 2W"
+			(at 118.745 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "13"
+			(at 121.285 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 123.825 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 126.365 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "RECOM Power"
+			(at 128.905 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "R12P21503D"
+			(at 131.445 11.7602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d27c7177-37e2-4689-a942-21f77c1212d7")
+		)
+		(pin "2"
+			(uuid "bb49b8d0-2e9f-499d-b7b4-cf7856880ec9")
+		)
+		(pin "5"
+			(uuid "d13206ef-f6fb-446b-a1e4-ff3c592b69f5")
+		)
+		(pin "6"
+			(uuid "2ff76259-fe26-4ed5-86b7-b1b566f2bb6d")
+		)
+		(pin "7"
+			(uuid "c59a14e9-892d-411f-9817-96a7d551528c")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "PS5")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "PS?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 140.6144 95.9612 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76fbc542-cb9f-43c0-b02f-ed680f67ed9a")
+		(property "Reference" "R?"
+			(at 140.6144 90.6272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 140.6144 93.1672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor(10ohms):RCS0603_E3"
+			(at 140.6144 97.7392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.6144 95.9612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.6144 95.9612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6e58c5d5-3331-419a-a7d0-d48ffdd5cce2")
+		)
+		(pin "2"
+			(uuid "e7838b14-3670-4314-bd8b-f33eabf02325")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 151.4348 36.9062 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8dc80d81-027b-4ccf-a04a-358caefec264")
+		(property "Reference" "C?"
+			(at 155.8798 41.9862 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 155.8798 44.5262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 152.7048 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 150.1648 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 147.6248 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 145.0848 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 142.5448 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 140.0048 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 137.4648 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 134.9248 45.7962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b75b36a-b114-4e82-8271-911f35d3a7a9")
+		)
+		(pin "2"
+			(uuid "624237da-1b04-4877-a1d6-f220fd000c7d")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 141.0462 141.097 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fc03d94-8dcb-4cf4-9936-ced53b54458b")
+		(property "Reference" "R?"
+			(at 141.0462 135.763 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 141.0462 138.303 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor(10ohms):RCS0603_E3"
+			(at 141.0462 142.875 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 141.0462 141.097 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 141.0462 141.097 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b3583ec-bf62-4c70-af1e-eb308ec57816")
+		)
+		(pin "2"
+			(uuid "24752985-c762-4fde-b967-247c6bae4860")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "R12P21503D:R12P21503D")
+		(at 117.2464 79.1972 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c3e0d2b-8c12-4228-b458-b0ca20a4b7ef")
+		(property "Reference" "PS?"
+			(at 130.937 65.2272 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R12P21503D"
+			(at 130.937 67.7672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Power Supply_Gate Driver:R12P21503D"
+			(at 114.7064 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf"
+			(at 117.2464 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC/DC Converter Isolated +15/-3V 2W"
+			(at 119.7864 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "13"
+			(at 122.3264 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 124.8664 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 127.4064 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "RECOM Power"
+			(at 129.9464 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "R12P21503D"
+			(at 132.4864 57.6072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed720d83-f5e6-40d4-9488-adfd203f2f03")
+		)
+		(pin "2"
+			(uuid "86dab28a-e8b5-4a39-9bfa-9a936b782105")
+		)
+		(pin "5"
+			(uuid "12c130c2-c9b3-4394-b3ab-5a2cd7c5200a")
+		)
+		(pin "6"
+			(uuid "3c999ebb-a602-43ba-8fcc-4a63a0321618")
+		)
+		(pin "7"
+			(uuid "dc64fe6e-b331-4dde-a7a4-770ac813aa9c")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "PS1")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "PS?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ED2132:1ED3122MU12HXUMA1")
+		(at 108.8644 93.4212 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e3567f0-3bb9-4612-a156-fff756082d56")
+		(property "Reference" "IC?"
+			(at 122.8344 86.0552 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1ED3122MU12HXUMA1"
+			(at 122.8344 88.5952 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Gate driver IC:SOIC127P1030X265-8N"
+			(at 132.9944 90.8812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?"
+			(at 132.9944 93.4212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Gate Drivers ISOLATED DRIVER EiceDRIVER 1ED31xxMU12H Compact"
+			(at 132.9944 95.9612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.65"
+			(at 132.9944 98.5012 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 132.9944 101.0412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1ED3122MU12HXUMA1"
+			(at 132.9944 103.5812 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-1ED3122MU12HXUMA"
+			(at 132.9944 106.1212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1ED3122MU12HXUMA1?qs=GBLSl2AkirsZ5PhF1sGJcw%3D%3D"
+			(at 132.9944 108.6612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "1ED3122MU12HXUMA1"
+			(at 132.9944 111.2012 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1ed3122mu12hxuma1/infineon-technologies-ag"
+			(at 132.9944 113.7412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff3e68d1-2ff5-41c7-931c-8e84bd85cd43")
+		)
+		(pin "2"
+			(uuid "2cb12c59-8e40-4568-8d08-d4e3c15c6f11")
+		)
+		(pin "3"
+			(uuid "bb930d0e-92e8-4c37-bf46-cd040f8334d6")
+		)
+		(pin "4"
+			(uuid "8a87aa3b-36d2-4a42-9cfe-f5e57d22d534")
+		)
+		(pin "5"
+			(uuid "948780e8-5ee2-4e12-8f49-adc495971ba2")
+		)
+		(pin "6"
+			(uuid "c33259d5-7877-4d5c-9696-5c1d7e4f392c")
+		)
+		(pin "7"
+			(uuid "d4d9c21f-44da-4d0f-b556-dff0ffc89626")
+		)
+		(pin "8"
+			(uuid "7b308b23-c041-4d43-8e54-8d9fcb8ad6c8")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "IC2")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "IC?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 151.4348 50.6476 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4cbd2e0-1600-49ec-b6e7-5c686166f2c9")
+		(property "Reference" "C?"
+			(at 155.8798 55.7276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 155.8798 58.2676 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 152.7048 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 150.1648 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 147.6248 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 145.0848 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 142.5448 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 140.0048 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 137.4648 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 134.9248 59.5376 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41dfc255-4837-4989-9805-4cfdda1f9e65")
+		)
+		(pin "2"
+			(uuid "f21312f7-37c6-4b64-9a65-0ca74177b9d5")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 153.5684 187.1726 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1264a3c-6446-4e07-975f-8d5dd552f63e")
+		(property "Reference" "C?"
+			(at 158.0134 192.2526 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 158.0134 194.7926 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 154.8384 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 152.2984 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 149.7584 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 147.2184 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 144.6784 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 142.1384 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 139.5984 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 137.0584 196.0626 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d878a9e8-0959-4ae5-8a5d-57cf6bd413f4")
+		)
+		(pin "2"
+			(uuid "845c086f-36a9-41f4-aede-0fcb50899e10")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 152.908 127.889 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c18e33e7-b15a-4932-8f9f-82478c928d29")
+		(property "Reference" "C?"
+			(at 157.353 132.969 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 157.353 135.509 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 154.178 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 151.638 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 149.098 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 146.558 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 144.018 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 141.478 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 138.938 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 136.398 136.779 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6623cfeb-b083-4316-be38-45562e8d8bd2")
+		)
+		(pin "2"
+			(uuid "238b5327-8a60-4678-a2db-aa1e672517f1")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 152.4762 82.7532 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c83fb017-8599-4937-90b6-415cc93cbc63")
+		(property "Reference" "C?"
+			(at 156.9212 87.8332 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 156.9212 90.3732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 153.7462 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 151.2062 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 148.6662 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 146.1262 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 143.5862 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 141.0462 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 138.5062 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 135.9662 91.6432 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00e61a68-3e4a-42aa-aeb0-8027c134ae37")
+		)
+		(pin "2"
+			(uuid "6228fc40-5bc6-4032-9d99-9af95c901ca2")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ED2132:1ED3122MU12HXUMA1")
+		(at 109.2962 138.557 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c8a55b22-3efe-4d87-afb5-0b4bfe52f5b2")
+		(property "Reference" "IC?"
+			(at 123.2662 131.191 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1ED3122MU12HXUMA1"
+			(at 123.2662 133.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Gate driver IC:SOIC127P1030X265-8N"
+			(at 133.4262 136.017 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?"
+			(at 133.4262 138.557 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Gate Drivers ISOLATED DRIVER EiceDRIVER 1ED31xxMU12H Compact"
+			(at 133.4262 141.097 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.65"
+			(at 133.4262 143.637 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 133.4262 146.177 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1ED3122MU12HXUMA1"
+			(at 133.4262 148.717 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-1ED3122MU12HXUMA"
+			(at 133.4262 151.257 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1ED3122MU12HXUMA1?qs=GBLSl2AkirsZ5PhF1sGJcw%3D%3D"
+			(at 133.4262 153.797 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "1ED3122MU12HXUMA1"
+			(at 133.4262 156.337 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1ed3122mu12hxuma1/infineon-technologies-ag"
+			(at 133.4262 158.877 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7db693b4-8fd3-458c-ab6a-01a1b4e7b58c")
+		)
+		(pin "2"
+			(uuid "f91c480a-b217-42f1-a5c9-7be05bd7fed3")
+		)
+		(pin "3"
+			(uuid "6e336911-f4c2-4285-83f8-64c31a53a53f")
+		)
+		(pin "4"
+			(uuid "fee340bd-a763-4538-a289-3337dac5195b")
+		)
+		(pin "5"
+			(uuid "4594a8dc-64b7-4719-89dc-4d328cfa0737")
+		)
+		(pin "6"
+			(uuid "b2e26564-c552-4bf8-a85a-0896203d25a9")
+		)
+		(pin "7"
+			(uuid "5e8dca2c-de4b-42e1-9a69-5b50d01b07c8")
+		)
+		(pin "8"
+			(uuid "3c31398f-44db-4434-88a1-4f264388911c")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "IC3")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "IC?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C0603C104K3PACTU:C0603C104K3PACTU")
+		(at 99.9236 148.7932 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf3c1df9-87da-49e5-b6d7-3bcee6114502")
+		(property "Reference" "C?"
+			(at 103.632 141.1732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "C0603C104K3PACTU"
+			(at 103.632 143.7132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD_film(0.1uF):C0603"
+			(at 98.6536 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 101.1936 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 5 % , 5 GOhms, 6.5 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 70"
+			(at 103.7336 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.87"
+			(at 106.2736 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 108.8136 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 111.3536 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 113.8936 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0603C104K3PACTU"
+			(at 116.4336 139.9032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bd0936d4-6cf7-4a51-b573-efa483665304")
+		)
+		(pin "2"
+			(uuid "b250dd7a-4b3f-4943-a75b-b832e54d7644")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EEE1HA4R7WAR:EEE1HA4R7WAR")
+		(at 153.5684 173.4312 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d9607137-9eee-422b-a71c-6373a76f238c")
+		(property "Reference" "C?"
+			(at 158.0134 178.5112 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EEE1HA4R7WAR"
+			(at 158.0134 181.0512 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SDM(4.7):EEE1AA220WR"
+			(at 154.8384 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1142.pdf"
+			(at 152.2984 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "PANASONIC - EEE1HA4R7WAR - SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 4.7 F, 50 V, S Series, 1000 hours @ 85C"
+			(at 149.7584 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "5.5"
+			(at 147.2184 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 144.6784 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 142.1384 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 139.5984 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "EEE1HA4R7WAR"
+			(at 137.0584 182.3212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e842b194-0073-4bfe-bcbf-062f33fc1e3d")
+		)
+		(pin "2"
+			(uuid "6263e643-d4b9-473a-b039-722693598c68")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ED2132:1ED3122MU12HXUMA1")
+		(at 109.9566 184.0992 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db32baea-a242-4563-86a7-f70410320ece")
+		(property "Reference" "IC?"
+			(at 123.9266 176.7332 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1ED3122MU12HXUMA1"
+			(at 123.9266 179.2732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Gate driver IC:SOIC127P1030X265-8N"
+			(at 134.0866 181.5592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?"
+			(at 134.0866 184.0992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Gate Drivers ISOLATED DRIVER EiceDRIVER 1ED31xxMU12H Compact"
+			(at 134.0866 186.6392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.65"
+			(at 134.0866 189.1792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 134.0866 191.7192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1ED3122MU12HXUMA1"
+			(at 134.0866 194.2592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-1ED3122MU12HXUMA"
+			(at 134.0866 196.7992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1ED3122MU12HXUMA1?qs=GBLSl2AkirsZ5PhF1sGJcw%3D%3D"
+			(at 134.0866 199.3392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "1ED3122MU12HXUMA1"
+			(at 134.0866 201.8792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1ed3122mu12hxuma1/infineon-technologies-ag"
+			(at 134.0866 204.4192 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af3151d5-6437-4d60-8f48-748a61e037e4")
+		)
+		(pin "2"
+			(uuid "b660c275-6238-4985-b730-56dfd2aaee8f")
+		)
+		(pin "3"
+			(uuid "3ac280c9-b53c-41b6-b652-dc5946c0128f")
+		)
+		(pin "4"
+			(uuid "6027ff13-69d3-450e-80e8-c24eb0358a92")
+		)
+		(pin "5"
+			(uuid "67280571-8bb6-4280-a999-55e289951260")
+		)
+		(pin "6"
+			(uuid "23908235-0267-4654-95c2-8f1d0be8cee3")
+		)
+		(pin "7"
+			(uuid "c7058a3d-c80c-4ad1-9884-9230b84fdf99")
+		)
+		(pin "8"
+			(uuid "7ea131c5-a88d-4f5e-a039-6563f44d60ff")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "IC4")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "IC?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 140.6144 98.5012 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ddd8ccd9-5be8-43d4-bf40-d0d76fd5441a")
+		(property "Reference" "R?"
+			(at 140.6144 93.1672 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "R"
+			(at 140.6144 95.7072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_3R3:ERJUP3"
+			(at 140.6144 100.2792 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.6144 98.5012 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 140.6144 98.5012 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a9691e8f-c0a4-460f-888f-5bc665c315e5")
+		)
+		(pin "2"
+			(uuid "e3d0f536-09ad-44d2-8aab-cda94357e825")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "R?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "691213510002:691213510002")
+		(at 34.3662 106.8832 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1e68790-a0e6-4539-84d3-d95ca816c3fb")
+		(property "Reference" "J?"
+			(at 35.9537 100.3554 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "691213510002"
+			(at 35.9537 102.8954 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "691213510002:691213510002"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "\\n2 Position Wire to Board Terminal Block Horizontal with Board 0.200 (5.08mm) Through Hole\\n"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=eda"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WIRE" "14 to 30 (AWG) 2.08 to 0.0509 (mm²)"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "IR-VDE" "14A"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "IR-UL" "14A"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WORKING-VOLTAGE-UL" "300V (AC)"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PINS" "2"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "Wurth Electronics"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "691213510002"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PITCH" "5.08mm"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PART-NUMBER" "691213510002"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "WORKING-VOLTAGE-VDE" "250V (AC)"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "TYPE" "Horizontal"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/691213510002/Wurth+Electronics/view-part/?ref=snap"
+			(at 34.3662 106.8832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ebfc3e7-91d2-4d92-b359-ba3bb9f681a6")
+		)
+		(pin "2"
+			(uuid "f835e346-89d3-46bd-866b-2aaa7f8603ce")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "J?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x06_Pin")
+		(at 33.5534 133.4262 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee38cb99-52b2-4129-88b5-345fe7f3514e")
+		(property "Reference" "J?"
+			(at 34.1884 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x06_Pin"
+			(at 34.1884 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+			(at 33.5534 133.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.5534 133.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 33.5534 133.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3939b11e-3553-4c32-8d9b-780aae696497")
+		)
+		(pin "2"
+			(uuid "db346c87-9151-41f9-96b5-95c017b46c45")
+		)
+		(pin "3"
+			(uuid "f181fe2f-ddb6-4809-aff8-fb2ee3916068")
+		)
+		(pin "4"
+			(uuid "9736362e-26c6-47dd-a3aa-14e7a8676ba1")
+		)
+		(pin "5"
+			(uuid "d9ffaf0b-01a1-46ce-97dc-0a1584d092fc")
+		)
+		(pin "6"
+			(uuid "504c90e3-0a57-4891-b231-5ca6d3515987")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "J11")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "J?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ED2132:1ED3122MU12HXUMA1")
+		(at 107.823 47.5742 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef359d19-e504-426a-90dc-864e318a2bca")
+		(property "Reference" "IC?"
+			(at 121.793 40.2082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1ED3122MU12HXUMA1"
+			(at 121.793 42.7482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Gate driver IC:SOIC127P1030X265-8N"
+			(at 131.953 45.0342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?"
+			(at 131.953 47.5742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Gate Drivers ISOLATED DRIVER EiceDRIVER 1ED31xxMU12H Compact"
+			(at 131.953 50.1142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "2.65"
+			(at 131.953 52.6542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Infineon"
+			(at 131.953 55.1942 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1ED3122MU12HXUMA1"
+			(at 131.953 57.7342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "726-1ED3122MU12HXUMA"
+			(at 131.953 60.2742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1ED3122MU12HXUMA1?qs=GBLSl2AkirsZ5PhF1sGJcw%3D%3D"
+			(at 131.953 62.8142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "1ED3122MU12HXUMA1"
+			(at 131.953 65.3542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/1ed3122mu12hxuma1/infineon-technologies-ag"
+			(at 131.953 67.8942 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f55989f5-4191-4f36-94b3-a1a27a330e5b")
+		)
+		(pin "2"
+			(uuid "f10f9f8f-137d-4d85-a790-d123885c5f11")
+		)
+		(pin "3"
+			(uuid "c052087c-869f-4e64-af41-a9e21c0326f7")
+		)
+		(pin "4"
+			(uuid "56bf4908-e936-42ec-baf3-1176a4d925d0")
+		)
+		(pin "5"
+			(uuid "feee7513-144b-4eeb-9896-79f4e13987ff")
+		)
+		(pin "6"
+			(uuid "5a3f2a7b-dc0e-4292-a845-83ffb59e7a80")
+		)
+		(pin "7"
+			(uuid "d7d266ae-2a5e-4ad7-8d51-9a6d22d413f2")
+		)
+		(pin "8"
+			(uuid "6df2347a-df88-4c8e-b368-da817c96f150")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "IC1")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "IC?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "C0603C104K3PACTU:C0603C104K3PACTU")
+		(at 100.203 194.2846 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eff3ca29-1cfe-4ede-a2a2-7584da8bc74e")
+		(property "Reference" "C?"
+			(at 103.9114 186.6646 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "C0603C104K3PACTU"
+			(at 103.9114 189.2046 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD_film(0.1uF):C0603"
+			(at 98.933 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://content.kemet.com/datasheets/KEM_C1006_X5R_SMD.pdf"
+			(at 101.473 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SMD Comm X5R, Ceramic, 0.1 uF, 10%, 25 VDC, 62.5 VDC, 85C, -55C, X5R, SMD, MLCC, Temperature Stable, Class II, 5 % , 5 GOhms, 6.5 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 70"
+			(at 104.013 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.87"
+			(at 106.553 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 109.093 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 111.633 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "KEMET"
+			(at 114.173 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "C0603C104K3PACTU"
+			(at 116.713 185.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c7f4d252-7e23-4001-a3a0-522a43e4da06")
+		)
+		(pin "2"
+			(uuid "8b59328d-e40e-45eb-ab86-877577392a67")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "R12P21503D:R12P21503D")
+		(at 117.6782 124.333 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fc6de347-5094-4147-a088-825b1aa8c090")
+		(property "Reference" "PS?"
+			(at 131.3688 110.363 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R12P21503D"
+			(at 131.3688 112.903 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Power Supply_Gate Driver:R12P21503D"
+			(at 115.1382 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf"
+			(at 117.6782 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC/DC Converter Isolated +15/-3V 2W"
+			(at 120.2182 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "13"
+			(at 122.7582 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Part Number" ""
+			(at 125.2982 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "element14 Price/Stock" ""
+			(at 127.8382 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "RECOM Power"
+			(at 130.3782 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "R12P21503D"
+			(at 132.9182 102.743 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "453e4677-84c5-4892-a43c-920bb49d0f0f")
+		)
+		(pin "2"
+			(uuid "5d3620e0-f9be-48ca-82b4-eed5a659306c")
+		)
+		(pin "5"
+			(uuid "d7e23cb0-3bdd-4fbd-b07b-32d4fcd73ca0")
+		)
+		(pin "6"
+			(uuid "f4f4b95b-f178-4195-ac7d-1ff12e4deabb")
+		)
+		(pin "7"
+			(uuid "920246cc-b280-498a-871f-1bcdc12cc023")
+		)
+		(instances
+			(project "DCCB"
+				(path "/65058651-b983-42f6-bfcd-e0c090f493cd/12f4ba46-9eb6-4727-8a6e-7cb518a510cc"
+					(reference "PS2")
+					(unit 1)
+				)
+			)
+			(project "GateDriver"
+				(path "/bd97b257-ce26-47b9-891a-20e894441c66"
+					(reference "PS?")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

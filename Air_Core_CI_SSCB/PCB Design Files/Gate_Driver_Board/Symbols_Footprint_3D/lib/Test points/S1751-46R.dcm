@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S1751-46R
+D EZ_Boardware SMT Test Point 2.0mm high S1751-46R, Brass Grounding Contact Used with Surface Mount, 3.25 x 2 x 1.65
+K
+F https://cdn.harwin.com/pdfs/S1751R.pdf
+$ENDCMP
+#
+#End Doc Library

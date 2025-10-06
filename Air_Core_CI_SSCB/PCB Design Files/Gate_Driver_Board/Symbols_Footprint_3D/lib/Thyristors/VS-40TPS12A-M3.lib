@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model VS-40TPS12A-M3
+#/2412886/1213781/2.50/3/3/Diode
+DEF VS-40TPS12A-M3 D 0 30 Y Y 1 F N
+F0 "D" 650 300 50 H V L CNN
+F1 "VS-40TPS12A-M3" 650 200 50 H V L CNN
+F2 "TO546P531X1558X2499-3P" 650 100 50 H I L CNN
+F3 "https://www.vishay.com/docs/94388/vs-40tps-m3series.pdf" 650 0 50 H I L CNN
+F4 "Thyristor,40TPS12A 40A 1200V" 650 -100 50 H I L CNN "Description"
+F5 "5.31" 650 -200 50 H I L CNN "Height"
+F6 "" 650 -300 50 H I L CNN "element14 Part Number"
+F7 "" 650 -400 50 H I L CNN "element14 Price/Stock"
+F8 "Vishay" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "VS-40TPS12A-M3" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K 1 0 0 200 R 50 50 0 0 P
+X A 2 0 -100 200 R 50 50 0 0 P
+X G 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

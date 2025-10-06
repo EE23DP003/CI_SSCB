@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 55J1K0E
+D Wirewound Resistors - Through Hole 5W 1K Ohm 5%
+K
+F https://www.ohmite.com/assets/docs/res_50.pdf
+$ENDCMP
+#
+#End Doc Library

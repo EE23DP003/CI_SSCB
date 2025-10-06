@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model C10220RJL
+#/193518/1213781/2.50/2/4/Resistor
+DEF C10220RJL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "C10220RJL" 550 150 50 H V L CNN
+F2 "RESAD7210W80L3810D850" 550 50 50 H I L CNN
+F3 "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773188%7FB%7Fpdf%7FEnglish%7FENG_DS_1773188_B_C-1111.pdf%7F1-1623773-5" 550 -50 50 H I L CNN
+F4 "TE Connectivity C10 Series Axial Wirewound Resistor 220 +/-5% 10W +/-90ppm/C" 550 -150 50 H I L CNN "Description"
+F5 "" 550 -250 50 H I L CNN "Height"
+F6 "" 550 -350 50 H I L CNN "element14 Part Number"
+F7 "" 550 -450 50 H I L CNN "element14 Price/Stock"
+F8 "TE Connectivity" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "C10220RJL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

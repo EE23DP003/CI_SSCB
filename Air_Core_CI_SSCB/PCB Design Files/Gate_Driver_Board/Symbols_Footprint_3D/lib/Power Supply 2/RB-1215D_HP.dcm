@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RB-1215D_HP
+D DC DC CONVERTER +/-15V 1W
+K
+F https://componentsearchengine.com/Datasheets/1/RB-1215D_HP.pdf
+$ENDCMP
+#
+#End Doc Library

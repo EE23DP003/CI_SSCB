@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R12P21503D
+D DC/DC Converter Isolated +15/-3V 2W
+K
+F https://recom-power.com/pdf/Econoline/RxxP2xxyy.pdf
+$ENDCMP
+#
+#End Doc Library

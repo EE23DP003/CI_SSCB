@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FR607
+D Case: R-6, Molded Plastic  Terminals: Axial Leads, Solderable per
+K
+F https://www.diodes.com/assets/Datasheets/products_inactive_data/ds26004.pdf
+$ENDCMP
+#
+#End Doc Library
